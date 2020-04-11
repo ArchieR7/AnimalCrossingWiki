@@ -1,0 +1,1733 @@
+[
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ea/NH-Icon-bitterling.png/revision/latest?cb=20200401003128",
+        "location": "River",
+        "month": [
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "name": " Bitterling",
+        "price": 900,
+        "shadowSize": "1",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/NH-Icon-palechub.png/revision/latest?cb=20200401003129",
+        "location": "River",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "name": " Pale chub",
+        "price": 200,
+        "shadowSize": "1",
+        "times": [
+            {
+                "endTime": "4pm",
+                "startTime": "9am"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/03/NH-Icon-cruciancarp.png/revision/latest?cb=20200401003129",
+        "location": "River",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "name": " Crucian carp",
+        "price": 160,
+        "shadowSize": "2",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Icon-dace.png/revision/latest?cb=20200401003129",
+        "location": "River",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "name": " Dace",
+        "price": 240,
+        "shadowSize": "3",
+        "times": [
+            {
+                "endTime": "9am",
+                "startTime": "4pm"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/NH-Icon-carp.png/revision/latest?cb=20200401003129",
+        "location": "Pond",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "name": " Carp",
+        "price": 300,
+        "shadowSize": "4",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/74/NH-Icon-koi.png/revision/latest?cb=20200401003129",
+        "location": "Pond",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "name": " Koi",
+        "price": 4000,
+        "shadowSize": "4",
+        "times": [
+            {
+                "endTime": "9am",
+                "startTime": "4pm"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ed/NH-Icon-goldfish.png/revision/latest?cb=20200401003129",
+        "location": "Pond",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "name": " Goldfish",
+        "price": 1300,
+        "shadowSize": "1",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c9/NH-Icon-popeyedgoldfish.png/revision/latest?cb=20200401003129",
+        "location": "Pond",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "name": " Pop-eyed goldfish",
+        "price": 1300,
+        "shadowSize": "1",
+        "times": [
+            {
+                "endTime": "4pm",
+                "startTime": "9am"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-Icon-ranchugoldfish.png/revision/latest?cb=20200401003129",
+        "location": "Pond",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "name": " Ranchu goldfish",
+        "price": 4500,
+        "shadowSize": "2",
+        "times": [
+            {
+                "endTime": "4pm",
+                "startTime": "9am"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Icon-killifish.png/revision/latest?cb=20200401003129",
+        "location": "Pond",
+        "month": [
+            1,
+            2,
+            10,
+            11,
+            12
+        ],
+        "name": " Killifish",
+        "price": 300,
+        "shadowSize": "1",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cd/NH-Icon-crawfish.png/revision/latest?cb=20200401003129",
+        "location": "Pond",
+        "month": [
+            1,
+            2,
+            3,
+            10,
+            11,
+            12
+        ],
+        "name": " Crawfish",
+        "price": 200,
+        "shadowSize": "2",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Icon-softshelledturtle.png/revision/latest?cb=20200401003129",
+        "location": "River",
+        "month": [
+            2,
+            3
+        ],
+        "name": " Soft-shelled turtle",
+        "price": 3750,
+        "shadowSize": "4",
+        "times": [
+            {
+                "endTime": "9am",
+                "startTime": "4pm"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/24/NH-Icon-snappingturtle.png/revision/latest?cb=20200401003129",
+        "location": "River",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            10,
+            11,
+            12
+        ],
+        "name": " Snapping turtle",
+        "price": 5000,
+        "shadowSize": "5",
+        "times": [
+            {
+                "endTime": "4am",
+                "startTime": "9pm"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Icon-tadpole.png/revision/latest?cb=20200401003129",
+        "location": "Pond",
+        "month": [
+            1,
+            9,
+            10,
+            11,
+            12
+        ],
+        "name": " Tadpole",
+        "price": 100,
+        "shadowSize": "1",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6b/NH-Icon-frog.png/revision/latest?cb=20200401003129",
+        "location": "Pond",
+        "month": [
+            1,
+            2,
+            11,
+            12
+        ],
+        "name": " Frog",
+        "price": 120,
+        "shadowSize": "2",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ee/NH-Icon-freshwatergoby.png/revision/latest?cb=20200401003129",
+        "location": "River",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "name": " Freshwater goby",
+        "price": 400,
+        "shadowSize": "2",
+        "times": [
+            {
+                "endTime": "9am",
+                "startTime": "4pm"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/77/NH-Icon-loach.png/revision/latest?cb=20200401003129",
+        "location": "River",
+        "month": [
+            9,
+            10,
+            11
+        ],
+        "name": " Loach",
+        "price": 400,
+        "shadowSize": "2",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/29/NH-Icon-catfish.png/revision/latest?cb=20200401003129",
+        "location": "Pond",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            11,
+            12
+        ],
+        "name": " Catfish",
+        "price": 800,
+        "shadowSize": "4",
+        "times": [
+            {
+                "endTime": "9am",
+                "startTime": "4pm"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Icon-giantsnakehead.png/revision/latest?cb=20200401003129",
+        "location": "Pond",
+        "month": [
+            1,
+            2,
+            12
+        ],
+        "name": " Giant snakehead",
+        "price": 5500,
+        "shadowSize": "5",
+        "times": [
+            {
+                "endTime": "4pm",
+                "startTime": "9am"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/69/NH-Icon-bluegill.png/revision/latest?cb=20200401003129",
+        "location": "River",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "name": " Bluegill",
+        "price": 180,
+        "shadowSize": "2",
+        "times": [
+            {
+                "endTime": "4pm",
+                "startTime": "9am"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1d/NH-Icon-yellowperch.png/revision/latest?cb=20200401003129",
+        "location": "River",
+        "month": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "name": " Yellow perch",
+        "price": 300,
+        "shadowSize": "3",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e2/NH-Icon-blackbass.png/revision/latest?cb=20200401003129",
+        "location": "River",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "name": " Black bass",
+        "price": 400,
+        "shadowSize": "4",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-Icon-tilapia.png/revision/latest?cb=20200401003129",
+        "location": "River",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            12
+        ],
+        "name": " Tilapia",
+        "price": 800,
+        "shadowSize": "3",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dc/NH-Icon-pike.png/revision/latest?cb=20200401003130",
+        "location": "River",
+        "month": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "name": " Pike",
+        "price": 1800,
+        "shadowSize": "5",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/41/NH-Icon-pondsmelt.png/revision/latest?cb=20200401003130",
+        "location": "River",
+        "month": [
+            6,
+            7,
+            8
+        ],
+        "name": " Pond smelt",
+        "price": 500,
+        "shadowSize": "2",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/40/NH-Icon-sweetfish.png/revision/latest?cb=20200401003129",
+        "location": "River",
+        "month": [
+            1,
+            2,
+            3
+        ],
+        "name": " Sweetfish",
+        "price": 900,
+        "shadowSize": "3",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH-Icon-cherrysalmon.png/revision/latest?cb=20200401003129",
+        "location": "River(Clifftop)",
+        "month": [
+            3,
+            4,
+            5,
+            9,
+            10,
+            11,
+            12
+        ],
+        "name": " Cherry salmon",
+        "price": 1000,
+        "shadowSize": "3",
+        "times": [
+            {
+                "endTime": "9am",
+                "startTime": "4pm"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/15/NH-Icon-char.png/revision/latest?cb=20200401003129",
+        "location": "River(Clifftop)Pond",
+        "month": [
+            3,
+            4,
+            5,
+            9,
+            10,
+            11,
+            12
+        ],
+        "name": " Char",
+        "price": 3800,
+        "shadowSize": "3",
+        "times": [
+            {
+                "endTime": "9am",
+                "startTime": "4pm"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5c/NH-Icon-goldentrout.png/revision/latest?cb=20200401003129",
+        "location": "River(Clifftop)",
+        "month": [
+            3,
+            4,
+            5,
+            9,
+            10,
+            11
+        ],
+        "name": " Golden trout",
+        "price": 15000,
+        "shadowSize": "3",
+        "times": [
+            {
+                "endTime": "9am",
+                "startTime": "4pm"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7b/NH-Icon-stringfish.png/revision/latest?cb=20200401003129",
+        "location": "River(Clifftop)",
+        "month": [
+            6,
+            7,
+            8,
+            9
+        ],
+        "name": " Stringfish",
+        "price": 15000,
+        "shadowSize": "5",
+        "times": [
+            {
+                "endTime": "9am",
+                "startTime": "4pm"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fb/NH-Icon-salmon.png/revision/latest?cb=20200401003129",
+        "location": "River(Mouth)",
+        "month": [
+            3
+        ],
+        "name": " Salmon",
+        "price": 700,
+        "shadowSize": "4",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fd/NH-Icon-kingsalmon.png/revision/latest?cb=20200401003129",
+        "location": "River(Mouth)",
+        "month": [
+            3
+        ],
+        "name": " King salmon",
+        "price": 1800,
+        "shadowSize": "6",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e3/NH-Icon-mittencrab.png/revision/latest?cb=20200401003129",
+        "location": "River",
+        "month": [
+            3,
+            4,
+            5
+        ],
+        "name": " Mitten crab",
+        "price": 2000,
+        "shadowSize": "2",
+        "times": [
+            {
+                "endTime": "9am",
+                "startTime": "4pm"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-Icon-guppy.png/revision/latest?cb=20200401003129",
+        "location": "River",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            10,
+            11,
+            12
+        ],
+        "name": " Guppy",
+        "price": 1300,
+        "shadowSize": "1",
+        "times": [
+            {
+                "endTime": "4pm",
+                "startTime": "9am"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/NH-Icon-nibblefish.png/revision/latest?cb=20200401003129",
+        "location": "River",
+        "month": [
+            1,
+            2,
+            3,
+            11,
+            12
+        ],
+        "name": " Nibble fish",
+        "price": 1500,
+        "shadowSize": "1",
+        "times": [
+            {
+                "endTime": "4pm",
+                "startTime": "9am"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-Icon-angelfish.png/revision/latest?cb=20200401003128",
+        "location": "River",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            11,
+            12
+        ],
+        "name": " Angelfish",
+        "price": 3000,
+        "shadowSize": "2",
+        "times": [
+            {
+                "endTime": "9am",
+                "startTime": "4pm"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7c/NH-Icon-betta.png/revision/latest?cb=20200401003129",
+        "location": "River",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            11,
+            12
+        ],
+        "name": " Betta",
+        "price": 2500,
+        "shadowSize": "2",
+        "times": [
+            {
+                "endTime": "4pm",
+                "startTime": "9am"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH-Icon-neontetra.png/revision/latest?cb=20200401003129",
+        "location": "River",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            10,
+            11,
+            12
+        ],
+        "name": " Neon tetra",
+        "price": 500,
+        "shadowSize": "1",
+        "times": [
+            {
+                "endTime": "4pm",
+                "startTime": "9am"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/68/NH-Icon-rainbowfish.png/revision/latest?cb=20200401003129",
+        "location": "River",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            11,
+            12
+        ],
+        "name": " Rainbowfish",
+        "price": 800,
+        "shadowSize": "1",
+        "times": [
+            {
+                "endTime": "4pm",
+                "startTime": "9am"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b9/NH-Icon-piranha.png/revision/latest?cb=20200401003130",
+        "location": "River",
+        "month": [
+            1,
+            2,
+            3,
+            12
+        ],
+        "name": " Piranha",
+        "price": 2500,
+        "shadowSize": "2",
+        "times": [
+            {
+                "endTime": "4pm",
+                "startTime": "9am"
+            },
+            {
+                "endTime": "4am",
+                "startTime": "9pm"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bf/NH-Icon-arowana.png/revision/latest?cb=20200401003128",
+        "location": "River",
+        "month": [
+            1,
+            2,
+            3,
+            12
+        ],
+        "name": " Arowana",
+        "price": 10000,
+        "shadowSize": "4",
+        "times": [
+            {
+                "endTime": "9am",
+                "startTime": "4pm"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/NH-Icon-dorado.png/revision/latest?cb=20200401003129",
+        "location": "River",
+        "month": [
+            1,
+            2,
+            3,
+            12
+        ],
+        "name": " Dorado",
+        "price": 15000,
+        "shadowSize": "5",
+        "times": [
+            {
+                "endTime": "9pm",
+                "startTime": "4am"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9f/NH-Icon-gar.png/revision/latest?cb=20200401003129",
+        "location": "Pond",
+        "month": [
+            1,
+            2,
+            3,
+            12
+        ],
+        "name": " Gar",
+        "price": 6000,
+        "shadowSize": "6",
+        "times": [
+            {
+                "endTime": "9am",
+                "startTime": "4pm"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-Icon-arapaima.png/revision/latest?cb=20200401003128",
+        "location": "River",
+        "month": [
+            1,
+            2,
+            3,
+            12
+        ],
+        "name": " Arapaima",
+        "price": 10000,
+        "shadowSize": "6",
+        "times": [
+            {
+                "endTime": "9am",
+                "startTime": "4pm"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a0/NH-Icon-saddledbichir.png/revision/latest?cb=20200401003130",
+        "location": "River",
+        "month": [
+            1,
+            2,
+            3,
+            12
+        ],
+        "name": " Saddled bichir",
+        "price": 4000,
+        "shadowSize": "4",
+        "times": [
+            {
+                "endTime": "4am",
+                "startTime": "9pm"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-Icon-sturgeon.png/revision/latest?cb=20200401003129",
+        "location": "River(Mouth)",
+        "month": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "name": " Sturgeon",
+        "price": 10000,
+        "shadowSize": "6",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH-Icon-seabutterfly.png/revision/latest?cb=20200401003129",
+        "location": "Sea",
+        "month": [
+            6,
+            7,
+            8,
+            9
+        ],
+        "name": " Sea butterfly",
+        "price": 1000,
+        "shadowSize": "1",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/55/NH-Icon-seahorse.png/revision/latest?cb=20200401003129",
+        "location": "Sea",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            10,
+            11,
+            12
+        ],
+        "name": " Sea horse",
+        "price": 1100,
+        "shadowSize": "1",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2f/NH-Icon-clownfish.png/revision/latest?cb=20200401003129",
+        "location": "Sea",
+        "month": [
+            1,
+            2,
+            3,
+            10,
+            11,
+            12
+        ],
+        "name": " Clown fish",
+        "price": 650,
+        "shadowSize": "1",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/11/NH-Icon-surgeonfish.png/revision/latest?cb=20200401003129",
+        "location": "Sea",
+        "month": [
+            1,
+            2,
+            3,
+            10,
+            11,
+            12
+        ],
+        "name": " Surgeonfish",
+        "price": 1000,
+        "shadowSize": "2",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8e/NH-Icon-butterflyfish.png/revision/latest?cb=20200401003129",
+        "location": "Sea",
+        "month": [
+            1,
+            2,
+            3,
+            10,
+            11,
+            12
+        ],
+        "name": " Butterfly fish",
+        "price": 1000,
+        "shadowSize": "2",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-Icon-napoleonfish.png/revision/latest?cb=20200401003129",
+        "location": "Sea",
+        "month": [
+            1,
+            2
+        ],
+        "name": " Napoleonfish",
+        "price": 10000,
+        "shadowSize": "6",
+        "times": [
+            {
+                "endTime": "9pm",
+                "startTime": "4am"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Icon-zebraturkeyfish.png/revision/latest?cb=20200401003130",
+        "location": "Sea",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            10,
+            11,
+            12
+        ],
+        "name": " Zebra turkeyfish",
+        "price": 500,
+        "shadowSize": "3",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/39/NH-Icon-blowfish.png/revision/latest?cb=20200401003129",
+        "location": "Sea",
+        "month": [
+            5,
+            6,
+            7,
+            8
+        ],
+        "name": " Blowfish",
+        "price": 5000,
+        "shadowSize": "3",
+        "times": [
+            {
+                "endTime": "4am",
+                "startTime": "6pm"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Icon-pufferfish.png/revision/latest?cb=20200401003130",
+        "location": "Sea",
+        "month": [
+            1,
+            2,
+            3
+        ],
+        "name": " Puffer fish",
+        "price": 250,
+        "shadowSize": "3",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/24/NH-Icon-anchovy.png/revision/latest?cb=20200401003129",
+        "location": "Sea",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "name": " Anchovy",
+        "price": 200,
+        "shadowSize": "2",
+        "times": [
+            {
+                "endTime": "9pm",
+                "startTime": "4am"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d5/NH-Icon-horsemackerel.png/revision/latest?cb=20200401003129",
+        "location": "Sea",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "name": " Horse mackerel",
+        "price": 150,
+        "shadowSize": "2",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8c/NH-Icon-barredknifejaw.png/revision/latest?cb=20200401003128",
+        "location": "Sea",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            9,
+            10,
+            11,
+            12
+        ],
+        "name": " Barred knifejaw",
+        "price": 5000,
+        "shadowSize": "3",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Icon-seabass.png/revision/latest?cb=20200401003130",
+        "location": "Sea",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "name": " Sea bass",
+        "price": 400,
+        "shadowSize": "5",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dd/NH-Icon-redsnapper.png/revision/latest?cb=20200401003130",
+        "location": "Sea",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "name": " Red snapper",
+        "price": 3000,
+        "shadowSize": "4",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c6/NH-Icon-dab.png/revision/latest?cb=20200401003129",
+        "location": "Sea",
+        "month": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "name": " Dab",
+        "price": 300,
+        "shadowSize": "3",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-Icon-oliveflounder.png/revision/latest?cb=20200401003129",
+        "location": "Sea",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "name": " Olive flounder",
+        "price": 800,
+        "shadowSize": "5",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3b/NH-Icon-squid.png/revision/latest?cb=20200401003130",
+        "location": "Sea",
+        "month": [
+            1,
+            2,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "name": " Squid",
+        "price": 500,
+        "shadowSize": "3",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e5/NH-Icon-morayeel.png/revision/latest?cb=20200401003130",
+        "location": "Sea",
+        "month": [
+            2,
+            3,
+            4
+        ],
+        "name": " Moray eel",
+        "price": 2000,
+        "shadowSize": "8",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ac/NH-Icon-ribboneel.png/revision/latest?cb=20200401003129",
+        "location": "Sea",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            12
+        ],
+        "name": " Ribbon eel",
+        "price": 600,
+        "shadowSize": "8",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/50/NH-Icon-tuna.png/revision/latest?cb=20200401003129",
+        "location": "Pier",
+        "month": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "name": " Tuna",
+        "price": 7000,
+        "shadowSize": "6",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2f/NH-Icon-bluemarlin.png/revision/latest?cb=20200401003129",
+        "location": "Pier",
+        "month": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "name": " Blue marlin",
+        "price": 10000,
+        "shadowSize": "6",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7b/NH-Icon-gianttrevally.png/revision/latest?cb=20200401003129",
+        "location": "Pier",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            11,
+            12
+        ],
+        "name": " Giant trevally",
+        "price": 4500,
+        "shadowSize": "5",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-Icon-mahimahi.png/revision/latest?cb=20200401003129",
+        "location": "Pier",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            11,
+            12
+        ],
+        "name": " Mahi-mahi",
+        "price": 6000,
+        "shadowSize": "5",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/52/NH-Icon-oceansunfish.png/revision/latest?cb=20200401003129",
+        "location": "Sea",
+        "month": [
+            1,
+            2,
+            3
+        ],
+        "name": " Ocean sunfish",
+        "price": 4000,
+        "shadowSize": "7",
+        "times": [
+            {
+                "endTime": "9pm",
+                "startTime": "4am"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/db/NH-Icon-ray.png/revision/latest?cb=20200401003129",
+        "location": "Sea",
+        "month": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "name": " Ray",
+        "price": 3000,
+        "shadowSize": "5",
+        "times": [
+            {
+                "endTime": "9pm",
+                "startTime": "4am"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/73/NH-Icon-sawshark.png/revision/latest?cb=20200401003129",
+        "location": "Sea",
+        "month": [
+            1,
+            2,
+            3,
+            12
+        ],
+        "name": " Saw shark",
+        "price": 12000,
+        "shadowSize": "7",
+        "times": [
+            {
+                "endTime": "9am",
+                "startTime": "4pm"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/NH-Icon-hammerheadshark.png/revision/latest?cb=20200401003129",
+        "location": "Sea",
+        "month": [
+            1,
+            2,
+            3,
+            12
+        ],
+        "name": " Hammerhead shark",
+        "price": 8000,
+        "shadowSize": "7",
+        "times": [
+            {
+                "endTime": "9am",
+                "startTime": "4pm"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/38/NH-Icon-greatwhiteshark.png/revision/latest?cb=20200401003129",
+        "location": "Sea",
+        "month": [
+            1,
+            2,
+            3,
+            12
+        ],
+        "name": " Great white shark",
+        "price": 15000,
+        "shadowSize": "7",
+        "times": [
+            {
+                "endTime": "9am",
+                "startTime": "4pm"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Icon-whaleshark.png/revision/latest?cb=20200401003129",
+        "location": "Sea",
+        "month": [
+            1,
+            2,
+            3,
+            12
+        ],
+        "name": " Whale shark",
+        "price": 13000,
+        "shadowSize": "7",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b9/NH-Icon-suckerfish.png/revision/latest?cb=20200401003131",
+        "location": "Sea",
+        "month": [
+            1,
+            2,
+            3,
+            12
+        ],
+        "name": " Suckerfish",
+        "price": 1500,
+        "shadowSize": "9",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/NH-Icon-footballfish.png/revision/latest?cb=20200401003129",
+        "location": "Sea",
+        "month": [
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "name": " Football fish",
+        "price": 2500,
+        "shadowSize": "4",
+        "times": [
+            {
+                "endTime": "9am",
+                "startTime": "4pm"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-Icon-oarfish.png/revision/latest?cb=20200401003129",
+        "location": "Sea",
+        "month": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "name": " Oarfish",
+        "price": 9000,
+        "shadowSize": "6",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c7/NH-Icon-barreleye.png/revision/latest?cb=20200401003128",
+        "location": "Sea",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "name": " Barreleye",
+        "price": 15000,
+        "shadowSize": "2",
+        "times": [
+            {
+                "endTime": "4am",
+                "startTime": "9pm"
+            }
+        ]
+    },
+    {
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/31/NH-Icon-coelacanth.png/revision/latest?cb=20200401003129",
+        "location": "Sea",
+        "month": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "name": " Coelacanth",
+        "price": 15000,
+        "shadowSize": "6",
+        "times": [
+            {
+                "endTime": "23:59",
+                "startTime": "00:00"
+            }
+        ]
+    }
+]
