@@ -1,5 +1,13 @@
 [
     {
+        "Chinese": "\u767d\u7c89\u8776",
+        "Dutch": "Koolwitje",
+        "French": "Pi\u00e9ridedelarave",
+        "German": "Kohlwei\u00dfling",
+        "Italian": "Farfallacomune",
+        "Japanese": "\u30e2\u30f3\u30b7\u30ed\u30c1\u30e7\u30a6",
+        "Korean": "\ubc30\ucd94\ud770\ub098\ube44",
+        "Spanish": "Mariposacom\u00fan",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3a/NH-Icon-commonbutterfly.png/revision/latest?cb=20200401005428",
         "location": "Flying",
         "month": [
@@ -14,7 +22,7 @@
             11,
             12
         ],
-        "name": " Common butterfly",
+        "name": "Common butterfly",
         "price": 160,
         "times": [
             {
@@ -24,6 +32,14 @@
         ]
     },
     {
+        "Chinese": "\u6591\u7f18\u70b9\u7c89\u8776",
+        "Dutch": "Citroenvlinder",
+        "French": "Citrin",
+        "German": "Zitronenfalter",
+        "Italian": "Farfallagialla",
+        "Japanese": "\u30e2\u30f3\u30ad\u30c1\u30e7\u30a6",
+        "Korean": "\ub178\ub791\ub098\ube44",
+        "Spanish": "Mariposacolias",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-Icon-yellowbutterfly.png/revision/latest?cb=20200401005428",
         "location": "Flying",
         "month": [
@@ -34,7 +50,7 @@
             9,
             10
         ],
-        "name": " Yellow butterfly",
+        "name": "Yellow butterfly",
         "price": 160,
         "times": [
             {
@@ -44,6 +60,14 @@
         ]
     },
     {
+        "Chinese": "\u51e4\u8776",
+        "Dutch": "Koninginnenpage",
+        "French": "Machaon",
+        "German": "Schwalbenschwanz",
+        "Italian": "Farfallatigre",
+        "Japanese": "\u30a2\u30b2\u30cf\u30c1\u30e7\u30a6",
+        "Korean": "\ud638\ub791\ub098\ube44",
+        "Spanish": "Mariposatigre",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/65/NH-Icon-tigerbutterfly.png/revision/latest?cb=20200401005429",
         "location": "Flying",
         "month": [
@@ -55,7 +79,7 @@
             8,
             9
         ],
-        "name": " Tiger butterfly",
+        "name": "Tiger butterfly",
         "price": 240,
         "times": [
             {
@@ -65,6 +89,14 @@
         ]
     },
     {
+        "Chinese": "\u4e4c\u9e26\u51e4\u8776",
+        "Dutch": "Pauwenpage",
+        "French": "Papiliobianor",
+        "German": "Ritterfalter",
+        "Italian": "Farfallavanessaio",
+        "Japanese": "\u30ab\u30e9\u30b9\u30a2\u30b2\u30cf",
+        "Korean": "\uc81c\ube44\ub098\ube44",
+        "Spanish": "Mariposabianor",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH-Icon-peacockbutterfly.png/revision/latest?cb=20200401005429",
         "location": "FlyingbyHybridFlowers",
         "month": [
@@ -73,7 +105,7 @@
             5,
             6
         ],
-        "name": " Peacock butterfly",
+        "name": "Peacock butterfly",
         "price": 2500,
         "times": [
             {
@@ -83,6 +115,14 @@
         ]
     },
     {
+        "Chinese": "\u9752\u5e26\u51e4\u8776",
+        "Dutch": "Blauwedriehoek",
+        "French": "Graphiumsarpedon",
+        "German": "Kolibrifalter",
+        "Italian": "Graphiumsarpedon",
+        "Japanese": "\u30a2\u30aa\u30b9\u30b8\u30a2\u30b2\u30cf",
+        "Korean": "\uccad\ub760\uc81c\ube44\ub098\ube44",
+        "Spanish": "Mariposatri\u00e1nguloazul",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5e/NH-Icon-commonbluebottle.png/revision/latest?cb=20200401005428",
         "location": "Flying",
         "month": [
@@ -92,7 +132,7 @@
             7,
             8
         ],
-        "name": " Common bluebottle",
+        "name": "Common bluebottle",
         "price": 300,
         "times": [
             {
@@ -102,6 +142,14 @@
         ]
     },
     {
+        "Chinese": "\u5927\u767d\u6591\u8776",
+        "Dutch": "Papiervlinder",
+        "French": "Grandplaneur",
+        "German": "Wei\u00dfe",
+        "Italian": "Farfallacartadiriso",
+        "Japanese": "\u30aa\u30aa\u30b4\u30de\u30c0\u30e9",
+        "Korean": "\uc655\uc5bc\ub8e9\ub098\ube44",
+        "Spanish": "Mariposacometadepapel",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dd/NH-Icon-paperkitebutterfly.png/revision/latest?cb=20200401005429",
         "location": "Flying",
         "month": [
@@ -118,7 +166,7 @@
             11,
             12
         ],
-        "name": " Paper kite butterfly",
+        "name": "Paper kite butterfly",
         "price": 1000,
         "times": [
             {
@@ -128,6 +176,14 @@
         ]
     },
     {
+        "Chinese": "\u5927\u7d2b\u86f1\u8776",
+        "Dutch": "Paarsekeizervlinder",
+        "French": "Sasakiacharonda",
+        "German": "Japan-Schillerfalter",
+        "Italian": "Farfallaimperatoreviola",
+        "Japanese": "\u30aa\u30aa\u30e0\u30e9\u30b5\u30ad",
+        "Korean": "\uc655\uc624\uc0c9\ub098\ube44",
+        "Spanish": "Marip.emperadorjapon\u00e9s",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/27/NH-Icon-greatpurpleemperor.png/revision/latest?cb=20200401005428",
         "location": "Flying",
         "month": [
@@ -136,7 +192,7 @@
             7,
             8
         ],
-        "name": " Great purple emperor",
+        "name": "Great purple emperor",
         "price": 3000,
         "times": [
             {
@@ -146,6 +202,14 @@
         ]
     },
     {
+        "Chinese": "\u5927\u6866\u6591\u8776",
+        "Dutch": "Monarchvlinder",
+        "French": "Monarque",
+        "German": "Monarchfalter",
+        "Italian": "Farfallamonarca",
+        "Japanese": "\u30aa\u30aa\u30ab\u30d0\u30de\u30c0\u30e9",
+        "Korean": "\uc655\ub098\ube44",
+        "Spanish": "Mariposamonarca",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/99/NH-Icon-monarchbutterfly.png/revision/latest?cb=20200401005429",
         "location": "Flying",
         "month": [
@@ -153,7 +217,7 @@
             10,
             11
         ],
-        "name": " Monarch butterfly",
+        "name": "Monarch butterfly",
         "price": 140,
         "times": [
             {
@@ -163,6 +227,14 @@
         ]
     },
     {
+        "Chinese": "\u5927\u84dd\u95ea\u8776",
+        "Dutch": "Blauwemorpho",
+        "French": "Morphobleu",
+        "German": "Himmelsfalter",
+        "Italian": "Farfallamorfoblu",
+        "Japanese": "\u30e2\u30eb\u30d5\u30a9\u30c1\u30e7\u30a6",
+        "Korean": "\ubab0\ud3ec\ub098\ube44",
+        "Spanish": "Mariposaceleste",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5e/NH-Icon-emperorbutterfly.png/revision/latest?cb=20200401005428",
         "location": "Flying",
         "month": [
@@ -175,7 +247,7 @@
             9,
             12
         ],
-        "name": " Emperor butterfly",
+        "name": "Emperor butterfly",
         "price": 4000,
         "times": [
             {
@@ -185,6 +257,14 @@
         ]
     },
     {
+        "Chinese": "\u5f69\u8884\u86f1\u8776",
+        "Dutch": "Agriasvlinder",
+        "French": "Agrias",
+        "German": "Agrias-Falter",
+        "Italian": "Farfallaagrias",
+        "Japanese": "\u30df\u30a4\u30ed\u30bf\u30c6\u30cf",
+        "Korean": "\uc544\uadf8\ub9ac\uc544\uc2a4\ub098\ube44",
+        "Spanish": "Mariposanarciso",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dc/NH-Icon-agriasbutterfly.png/revision/latest?cb=20200401005428",
         "location": "Flying",
         "month": [
@@ -195,7 +275,7 @@
             8,
             9
         ],
-        "name": " Agrias butterfly",
+        "name": "Agrias butterfly",
         "price": 3000,
         "times": [
             {
@@ -205,6 +285,14 @@
         ]
     },
     {
+        "Chinese": "\u7ea2\u9888\u51e4\u8776",
+        "Dutch": "RajahBrooke-vlinder",
+        "French": "Troidesbrookiana",
+        "German": "Troidesbrookiana",
+        "Italian": "FarfallaRajaBrooke",
+        "Japanese": "\u30a2\u30ab\u30a8\u30ea\u30c8\u30ea\u30d0\u30cd\u30a2\u30b2\u30cf",
+        "Korean": "\ubd89\uc740\ubaa9\ub3c4\ub9ac\ube44\ub2e8\ub098\ube44",
+        "Spanish": "MariposaalasdeBrooke",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e2/NH-Icon-rajahbrookesbirdwing.png/revision/latest?cb=20200401005428",
         "location": "Flying",
         "month": [
@@ -218,7 +306,7 @@
             9,
             12
         ],
-        "name": " Rajah Brooke's birdwing",
+        "name": "Rajah Brooke's birdwing",
         "price": 2500,
         "times": [
             {
@@ -228,6 +316,14 @@
         ]
     },
     {
+        "Chinese": "\u4e9a\u5386\u5c71\u5927\u51e4\u8776",
+        "Dutch": "Alexandra'svogelvlinder",
+        "French": "Troidesalexandrae",
+        "German": "Vogelfalter",
+        "Italian": "FarfallareginaAlessandra",
+        "Japanese": "\u30a2\u30ec\u30ad\u30b5\u30f3\u30c9\u30e9\u30c8\u30ea\u30d0\u30cd\u30a2\u30b2\u30cf",
+        "Korean": "\uc54c\ub809\uc0b0\ub4dc\ub77c\ube44\ub2e8\uc81c\ube44\ub098\ube44",
+        "Spanish": "Mariposaalasdep\u00e1jaro",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b8/NH-Icon-queenalexandrasbirdwing.png/revision/latest?cb=20200401005429",
         "location": "Flying",
         "month": [
@@ -237,7 +333,7 @@
             8,
             9
         ],
-        "name": " Queen Alexandra's birdwing",
+        "name": "Queen Alexandra's birdwing",
         "price": 4000,
         "times": [
             {
@@ -247,6 +343,14 @@
         ]
     },
     {
+        "Chinese": "\u98de\u86fe",
+        "Dutch": "Mot",
+        "French": "Papillondenuit",
+        "German": "Motte",
+        "Italian": "Falena",
+        "Japanese": "\u30ac",
+        "Korean": "\ub098\ubc29",
+        "Spanish": "Polilla",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/12/NH-Icon-moth.png/revision/latest?cb=20200401005428",
         "location": "FlyingbyLight",
         "month": [
@@ -263,7 +367,7 @@
             11,
             12
         ],
-        "name": " Moth",
+        "name": "Moth",
         "price": 130,
         "times": [
             {
@@ -273,6 +377,14 @@
         ]
     },
     {
+        "Chinese": "\u7687\u86fe",
+        "Dutch": "Atlasvlinder",
+        "French": "AttacusAtlas",
+        "German": "Atlasspinner",
+        "Italian": "Farfallacobra",
+        "Japanese": "\u30e8\u30ca\u30b0\u30cb\u30b5\u30f3",
+        "Korean": "\uc544\ud2c0\ub77c\uc2a4\ub098\ubc29",
+        "Spanish": "Polillaatlas",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-Icon-atlasmoth.png/revision/latest?cb=20200401005428",
         "location": "OnTrees",
         "month": [
@@ -283,7 +395,7 @@
             8,
             9
         ],
-        "name": " Atlas moth",
+        "name": "Atlas moth",
         "price": 3000,
         "times": [
             {
@@ -293,6 +405,14 @@
         ]
     },
     {
+        "Chinese": "\u65e5\u843d\u86fe",
+        "Dutch": "Adriandolo",
+        "French": "Chrysiridiarhipheus",
+        "German": "Regenbogenfalter",
+        "Italian": "UraniadelMadagascar",
+        "Japanese": "\u30cb\u30b7\u30ad\u30aa\u30aa\u30c4\u30d0\u30e1\u30ac",
+        "Korean": "\ub9c8\ub2e4\uac00\uc2a4\uce74\ub974\ube44\ub2e8\uc81c\ube44\ub098\ubc29",
+        "Spanish": "Polillacrepuscular",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7d/NH-Icon-madagascansunsetmoth.png/revision/latest?cb=20200401005429",
         "location": "Flying",
         "month": [
@@ -303,7 +423,7 @@
             8,
             9
         ],
-        "name": " Madagascan sunset moth",
+        "name": "Madagascan sunset moth",
         "price": 2500,
         "times": [
             {
@@ -313,6 +433,14 @@
         ]
     },
     {
+        "Chinese": "\u4e2d\u534e\u5251\u89d2\u8757",
+        "Dutch": "Veldsprinkhaan",
+        "French": "Acridacinerea",
+        "German": "Nasenschrecke",
+        "Italian": "Acridacinerea",
+        "Japanese": "\u30b7\u30e7\u30a6\u30ea\u30e7\u30a6\u30d0\u30c3\u30bf",
+        "Korean": "\ubc29\uc544\uae68\ube44",
+        "Spanish": "Langostaalargada",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ef/NH-Icon-longlocust.png/revision/latest?cb=20200401005429",
         "location": "OntheGround",
         "month": [
@@ -325,7 +453,7 @@
             10,
             11
         ],
-        "name": " Long locust",
+        "name": "Long locust",
         "price": 200,
         "times": [
             {
@@ -335,6 +463,14 @@
         ]
     },
     {
+        "Chinese": "\u98de\u8757",
+        "Dutch": "Treksprinkhaan",
+        "French": "Criquetp\u00e8lerin",
+        "German": "Wanderschrecke",
+        "Italian": "Locustamigratoria",
+        "Japanese": "\u30c8\u30ce\u30b5\u30de\u30d0\u30c3\u30bf",
+        "Korean": "\uc12c\ud480\ubb34\uce58",
+        "Spanish": "Langostamigratoria",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-Icon-migratorylocust.png/revision/latest?cb=20200401005429",
         "location": "OntheGround",
         "month": [
@@ -343,7 +479,7 @@
             10,
             11
         ],
-        "name": " Migratory locust",
+        "name": "Migratory locust",
         "price": 600,
         "times": [
             {
@@ -353,6 +489,14 @@
         ]
     },
     {
+        "Chinese": "\u7a3b\u8757",
+        "Dutch": "Rijstsprinkhaan",
+        "French": "Criquet",
+        "German": "Heuschrecke",
+        "Italian": "Locusta",
+        "Japanese": "\u30a4\u30ca\u30b4",
+        "Korean": "\uba54\ub69c\uae30",
+        "Spanish": "Langosta",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d3/NH-Icon-ricegrasshopper.png/revision/latest?cb=20200401005428",
         "location": "OntheGround",
         "month": [
@@ -361,7 +505,7 @@
             10,
             11
         ],
-        "name": " Rice grasshopper",
+        "name": "Rice grasshopper",
         "price": 160,
         "times": [
             {
@@ -371,6 +515,14 @@
         ]
     },
     {
+        "Chinese": "\u86b1\u8722",
+        "Dutch": "Sprinkhaan",
+        "French": "Sauterelle",
+        "German": "Grash\u00fcpfer",
+        "Italian": "Cavalletta",
+        "Japanese": "\u30ad\u30ea\u30ae\u30ea\u30b9",
+        "Korean": "\uc5ec\uce58",
+        "Spanish": "Saltamontes",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/56/NH-Icon-grasshopper.png/revision/latest?cb=20200401005428",
         "location": "OntheGround",
         "month": [
@@ -378,7 +530,7 @@
             8,
             9
         ],
-        "name": " Grasshopper",
+        "name": "Grasshopper",
         "price": 160,
         "times": [
             {
@@ -388,6 +540,14 @@
         ]
     },
     {
+        "Chinese": "\u87cb\u87c0",
+        "Dutch": "Krekel",
+        "French": "Grillondespr\u00e9s",
+        "German": "Grille",
+        "Italian": "Grillo",
+        "Japanese": "\u30b3\u30aa\u30ed\u30ae",
+        "Korean": "\uadc0\ub69c\ub77c\ubbf8",
+        "Spanish": "Grillocom\u00fan",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-Icon-cricket.png/revision/latest?cb=20200401005428",
         "location": "OntheGround",
         "month": [
@@ -395,7 +555,7 @@
             10,
             11
         ],
-        "name": " Cricket",
+        "name": "Cricket",
         "price": 130,
         "times": [
             {
@@ -405,13 +565,21 @@
         ]
     },
     {
+        "Chinese": "\u94c3\u866b",
+        "Dutch": "Belkrekel",
+        "French": "GrillonduMidi",
+        "German": "Singgrille",
+        "Italian": "Suzumushi",
+        "Japanese": "\u30b9\u30ba\u30e0\u30b7",
+        "Korean": "\ubc29\uc6b8\ubc8c\ub808",
+        "Spanish": "Grillocampana",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/99/NH-Icon-bellcricket.png/revision/latest?cb=20200401005428",
         "location": "OntheGround",
         "month": [
             9,
             10
         ],
-        "name": " Bell cricket",
+        "name": "Bell cricket",
         "price": 430,
         "times": [
             {
@@ -421,6 +589,14 @@
         ]
     },
     {
+        "Chinese": "\u87b3\u8782",
+        "Dutch": "Bidsprinkhaan",
+        "French": "Mantereligieuse",
+        "German": "Gottesanbeterin",
+        "Italian": "Mantide",
+        "Japanese": "\u30ab\u30de\u30ad\u30ea",
+        "Korean": "\uc0ac\ub9c8\uadc0",
+        "Spanish": "Mantisreligiosa",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/00/NH-Icon-mantis.png/revision/latest?cb=20200401005429",
         "location": "OnFlowers",
         "month": [
@@ -434,7 +610,7 @@
             10,
             11
         ],
-        "name": " Mantis",
+        "name": "Mantis",
         "price": 430,
         "times": [
             {
@@ -444,6 +620,14 @@
         ]
     },
     {
+        "Chinese": "\u5170\u82b1\u87b3\u8782",
+        "Dutch": "Orchidee-bidsprinkhaan",
+        "French": "Manteorchid\u00e9e",
+        "German": "Orchideenmantis",
+        "Italian": "Mantideorchidea",
+        "Japanese": "\u30cf\u30ca\u30ab\u30de\u30ad\u30ea",
+        "Korean": "\uc5f0\uaf43\uc0ac\ub9c8\uadc0",
+        "Spanish": "Mantisorqu\u00eddea",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-Icon-orchidmantis.png/revision/latest?cb=20200401005428",
         "location": "OnFlowers(White)",
         "month": [
@@ -457,7 +641,7 @@
             10,
             11
         ],
-        "name": " Orchid mantis",
+        "name": "Orchid mantis",
         "price": 2400,
         "times": [
             {
@@ -467,6 +651,14 @@
         ]
     },
     {
+        "Chinese": "\u871c\u8702",
+        "Dutch": "Honingbij",
+        "French": "Abeillenaine",
+        "German": "Honigbiene",
+        "Italian": "Apeoperaia",
+        "Japanese": "\u30df\u30c4\u30d0\u30c1",
+        "Korean": "\uafc0\ubc8c",
+        "Spanish": "Abejamel\u00edfera",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/26/NH-Icon-honeybee.png/revision/latest?cb=20200401005428",
         "location": "Flying",
         "month": [
@@ -476,7 +668,7 @@
             6,
             7
         ],
-        "name": " Honeybee",
+        "name": "Honeybee",
         "price": 200,
         "times": [
             {
@@ -486,6 +678,14 @@
         ]
     },
     {
+        "Chinese": "\u9ec4\u8702",
+        "Dutch": "Wesp",
+        "French": "Gu\u00eape",
+        "German": "Wespe",
+        "Italian": "Vespa",
+        "Japanese": "\u30cf\u30c1",
+        "Korean": "\ubc8c",
+        "Spanish": "Avispa",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-Icon-wasp.png/revision/latest?cb=20200401005428",
         "location": "ShakingTrees",
         "month": [
@@ -502,7 +702,7 @@
             11,
             12
         ],
-        "name": " Wasp",
+        "name": "Wasp",
         "price": 2500,
         "times": [
             {
@@ -512,13 +712,21 @@
         ]
     },
     {
+        "Chinese": "\u6cb9\u8749",
+        "Dutch": "Bruinecicade",
+        "French": "Cigalecercope",
+        "German": "Braunzikade",
+        "Italian": "Cicalamarrone",
+        "Japanese": "\u30a2\u30d6\u30e9\u30bc\u30df",
+        "Korean": "\uc720\uc9c0\ub9e4\ubbf8",
+        "Spanish": "Cigarramarr\u00f3n",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ab/NH-Icon-browncicada.png/revision/latest?cb=20200401005428",
         "location": "OnTrees",
         "month": [
             7,
             8
         ],
-        "name": " Brown cicada",
+        "name": "Brown cicada",
         "price": 250,
         "times": [
             {
@@ -528,13 +736,21 @@
         ]
     },
     {
+        "Chinese": "\u6591\u900f\u7fc5\u8749",
+        "Dutch": "Minmin-cicade",
+        "French": "Cigalehyalessa",
+        "German": "Hyalessa-Zikade",
+        "Italian": "Cicalarobusta",
+        "Japanese": "\u30df\u30f3\u30df\u30f3\u30bc\u30df",
+        "Korean": "\ucc38\ub9e4\ubbf8",
+        "Spanish": "Cigarraoriental",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2f/NH-Icon-robustcicada.png/revision/latest?cb=20200401005429",
         "location": "OnTrees",
         "month": [
             7,
             8
         ],
-        "name": " Robust cicada",
+        "name": "Robust cicada",
         "price": 300,
         "times": [
             {
@@ -544,13 +760,21 @@
         ]
     },
     {
+        "Chinese": "\u718a\u8749",
+        "Dutch": "Reuzencicade",
+        "French": "Cigaleg\u00e9ante",
+        "German": "Riesenzikade",
+        "Italian": "Cicalagigante",
+        "Japanese": "\u30af\u30de\u30bc\u30df",
+        "Korean": "\uacf0\ub9e4\ubbf8",
+        "Spanish": "Cigarragigante",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/58/NH-Icon-giantcicada.png/revision/latest?cb=20200401005428",
         "location": "OnTrees",
         "month": [
             7,
             8
         ],
-        "name": " Giant cicada",
+        "name": "Giant cicada",
         "price": 500,
         "times": [
             {
@@ -560,13 +784,21 @@
         ]
     },
     {
+        "Chinese": "\u5bd2\u8749",
+        "Dutch": "Bergcicade",
+        "French": "Cigalecicadelle",
+        "German": "Bergzikade",
+        "Italian": "Cicalasputacchina",
+        "Japanese": "\u30c4\u30af\u30c4\u30af\u30db\u30a6\u30b7",
+        "Korean": "\uc560\ub9e4\ubbf8",
+        "Spanish": "Cigarracom\u00fan",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ec/NH-Icon-walkercicada.png/revision/latest?cb=20200401005429",
         "location": "OnTrees",
         "month": [
             8,
             9
         ],
-        "name": " Walker cicada",
+        "name": "Walker cicada",
         "price": 400,
         "times": [
             {
@@ -576,13 +808,21 @@
         ]
     },
     {
+        "Chinese": "\u66ae\u8749",
+        "Dutch": "Avondcicade",
+        "French": "Cigalehigurashi",
+        "German": "Abendzikade",
+        "Italian": "Cicalanotturna",
+        "Japanese": "\u30d2\u30b0\u30e9\u30b7",
+        "Korean": "\uc4f0\ub974\ub77c\ubbf8",
+        "Spanish": "Cigarrilla",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/16/NH-Icon-eveningcicada.png/revision/latest?cb=20200401005428",
         "location": "OnTrees",
         "month": [
             7,
             8
         ],
-        "name": " Evening cicada",
+        "name": "Evening cicada",
         "price": 550,
         "times": [
             {
@@ -596,13 +836,21 @@
         ]
     },
     {
+        "Chinese": "\u8749\u8715",
+        "Dutch": "Cicadehuid",
+        "French": "Muedecigale",
+        "German": "Zikadenlarvenhaut",
+        "Italian": "Esuviadicicala",
+        "Japanese": "\u30bb\u30df\u306e\u306c\u3051\u304c\u3089",
+        "Korean": "\ub9e4\ubbf8\ud5c8\ubb3cMaemiheomu",
+        "Spanish": "Mudadecigarra",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/97/NH-Icon-cicadashell.png/revision/latest?cb=20200401005428",
         "location": "OnTrees",
         "month": [
             7,
             8
         ],
-        "name": " Cicada shell",
+        "name": "Cicada shell",
         "price": 10,
         "times": [
             {
@@ -612,13 +860,21 @@
         ]
     },
     {
+        "Chinese": "\u7ea2\u873b\u8713",
+        "Dutch": "Rodelibel",
+        "French": "Sympetrum",
+        "German": "Feuerlibelle",
+        "Italian": "Libellularossa",
+        "Japanese": "\u30a2\u30ad\u30a2\u30ab\u30cd",
+        "Korean": "\uace0\ucd94\uc7a0\uc790\ub9ac",
+        "Spanish": "Lib\u00e9lularoja",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/eb/NH-Icon-reddragonfly.png/revision/latest?cb=20200401005428",
         "location": "Flying",
         "month": [
             9,
             10
         ],
-        "name": " Red dragonfly",
+        "name": "Red dragonfly",
         "price": 180,
         "times": [
             {
@@ -628,6 +884,14 @@
         ]
     },
     {
+        "Chinese": "\u7eff\u80f8\u664f\u8713",
+        "Dutch": "Zuidelijkekeizerlibel",
+        "French": "Anaxnapolitain",
+        "German": "K\u00f6nigslibelle",
+        "Italian": "Libelluladepressa",
+        "Japanese": "\u30ae\u30f3\u30e4\u30f3\u30de",
+        "Korean": "\uc655\uc7a0\uc790\ub9ac",
+        "Spanish": "Lib\u00e9lulacaballitodeldiablo",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/70/NH-Icon-darnerdragonfly.png/revision/latest?cb=20200401005428",
         "location": "Flying",
         "month": [
@@ -639,7 +903,7 @@
             9,
             10
         ],
-        "name": " Darner dragonfly",
+        "name": "Darner dragonfly",
         "price": 230,
         "times": [
             {
@@ -649,6 +913,14 @@
         ]
     },
     {
+        "Chinese": "\u65e0\u9738\u52fe\u8713",
+        "Dutch": "Bronlibel",
+        "French": "Cordul\u00e9gastre",
+        "German": "Quelljungfer",
+        "Italian": "Libellulastriata",
+        "Japanese": "\u30aa\u30cb\u30e4\u30f3\u30de",
+        "Korean": "\uc7a5\uc218\uc7a0\uc790\ub9ac",
+        "Spanish": "Lib\u00e9lulatigre",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/64/NH-Icon-bandeddragonfly.png/revision/latest?cb=20200401005428",
         "location": "Flying",
         "month": [
@@ -659,7 +931,7 @@
             9,
             10
         ],
-        "name": " Banded dragonfly",
+        "name": "Banded dragonfly",
         "price": 4500,
         "times": [
             {
@@ -669,6 +941,14 @@
         ]
     },
     {
+        "Chinese": "\u8c46\u5a18",
+        "Dutch": "Juffer",
+        "French": "Demoiselle",
+        "German": "Wasserjungfer",
+        "Italian": "Zigottero",
+        "Japanese": "\u30a4\u30c8\u30c8\u30f3\u30dc",
+        "Korean": "\uc2e4\uc7a0\uc790\ub9ac",
+        "Spanish": "Lib\u00e9luladamisela",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/16/NH-Icon-damselfly.png/revision/latest?cb=20200401005428",
         "location": "Flying",
         "month": [
@@ -677,7 +957,7 @@
             11,
             12
         ],
-        "name": " Damselfly",
+        "name": "Damselfly",
         "price": 500,
         "times": [
             {
@@ -687,12 +967,20 @@
         ]
     },
     {
+        "Chinese": "\u8424\u706b\u866b",
+        "Dutch": "Vuurvliegje",
+        "French": "Luciole",
+        "German": "Leuchtk\u00e4fer",
+        "Italian": "Lucciola",
+        "Japanese": "\u30db\u30bf\u30eb",
+        "Korean": "\ubc18\ub514",
+        "Spanish": "Luci\u00e9rnaga",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/NH-Icon-firefly.png/revision/latest?cb=20200401005428",
         "location": "Flying",
         "month": [
             6
         ],
-        "name": " Firefly",
+        "name": "Firefly",
         "price": 300,
         "times": [
             {
@@ -702,6 +990,14 @@
         ]
     },
     {
+        "Chinese": "\u877c\u86c4",
+        "Dutch": "Veenmol",
+        "French": "Taupe-grillon",
+        "German": "Maulwurfsgrille",
+        "Italian": "Grillotalpa",
+        "Japanese": "\u30aa\u30b1\u30e9",
+        "Korean": "\ub545\uac15\uc544\uc9c0",
+        "Spanish": "Grillocebollero",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/00/NH-Icon-molecricket.png/revision/latest?cb=20200401005429",
         "location": "Underground",
         "month": [
@@ -713,7 +1009,7 @@
             11,
             12
         ],
-        "name": " Mole cricket",
+        "name": "Mole cricket",
         "price": 500,
         "times": [
             {
@@ -723,6 +1019,14 @@
         ]
     },
     {
+        "Chinese": "\u6c34\u9efe",
+        "Dutch": "Schaatsenrijder",
+        "French": "Patineur",
+        "German": "Wasserl\u00e4ufer",
+        "Italian": "Gerride",
+        "Japanese": "\u30a2\u30e1\u30f3\u30dc",
+        "Korean": "\uc18c\uae08\uc7c1\uc774",
+        "Spanish": "Zapatero",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f4/NH-Icon-pondskater.png/revision/latest?cb=20200401005429",
         "location": "OnPondsandRivers",
         "month": [
@@ -732,7 +1036,7 @@
             8,
             9
         ],
-        "name": " Pondskater",
+        "name": "Pondskater",
         "price": 130,
         "times": [
             {
@@ -742,6 +1046,14 @@
         ]
     },
     {
+        "Chinese": "\u9f99\u8671",
+        "Dutch": "Waterroofkever",
+        "French": "Dytique",
+        "German": "Schwimmk\u00e4fer",
+        "Italian": "Ditisco",
+        "Japanese": "\u30b2\u30f3\u30b4\u30ed\u30a6",
+        "Korean": "\ubb3c\ubc29\uac1c",
+        "Spanish": "Escarabajonadador",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c5/NH-Icon-divingbeetle.png/revision/latest?cb=20200401005428",
         "location": "OnPondsandRivers",
         "month": [
@@ -751,7 +1063,7 @@
             8,
             9
         ],
-        "name": " Diving beetle",
+        "name": "Diving beetle",
         "price": 800,
         "times": [
             {
@@ -761,6 +1073,14 @@
         ]
     },
     {
+        "Chinese": "\u7530\u9cd6",
+        "Dutch": "Reuzenwaterwants",
+        "French": "Punaised'eaug\u00e9ante",
+        "German": "Riesenwanze",
+        "Italian": "Cimiced'acquagigante",
+        "Japanese": "\u30bf\u30ac\u30e1",
+        "Korean": "\ubb3c\uc7a5\uad70",
+        "Spanish": "Chincheacu\u00e1ticagigante",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/55/NH-Icon-giantwaterbug.png/revision/latest?cb=20200401005428",
         "location": "OnPondsandRivers",
         "month": [
@@ -771,7 +1091,7 @@
             8,
             9
         ],
-        "name": " Giant water bug",
+        "name": "Giant water bug",
         "price": 2000,
         "times": [
             {
@@ -781,6 +1101,14 @@
         ]
     },
     {
+        "Chinese": "\u693f\u8c61",
+        "Dutch": "Schildwants",
+        "French": "Punaise",
+        "German": "Stinkwanze",
+        "Italian": "Cimice",
+        "Japanese": "\u30ab\u30e1\u30e0\u30b7",
+        "Korean": "\ub178\ub9b0\uc7ac",
+        "Spanish": "Chinche",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/80/NH-Icon-stinkbug.png/revision/latest?cb=20200401005429",
         "location": "OnFlowers",
         "month": [
@@ -793,7 +1121,7 @@
             9,
             10
         ],
-        "name": " Stinkbug",
+        "name": "Stinkbug",
         "price": 120,
         "times": [
             {
@@ -803,6 +1131,14 @@
         ]
     },
     {
+        "Chinese": "\u4eba\u9762\u693f\u8c61",
+        "Dutch": "Gezichtschildwants",
+        "French": "Catacanthus",
+        "German": "Gesichtswanze",
+        "Italian": "Catacanthus",
+        "Japanese": "\u30b8\u30f3\u30e1\u30f3\u30ab\u30e1\u30e0\u30b7",
+        "Korean": "\uc778\uba74\ub178\ub9b0\uc7ac",
+        "Spanish": "Chincheconrostrohumano",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c7/NH-Icon-manfacedstinkbug.png/revision/latest?cb=20200401005429",
         "location": "OnFlowers",
         "month": [
@@ -815,7 +1151,7 @@
             9,
             10
         ],
-        "name": " Man-faced stink bug",
+        "name": "Man-faced stink bug",
         "price": 1000,
         "times": [
             {
@@ -825,6 +1161,14 @@
         ]
     },
     {
+        "Chinese": "\u74e2\u866b",
+        "Dutch": "Lieveheersbeestje",
+        "French": "Coccinelle",
+        "German": "Marienk\u00e4fer",
+        "Italian": "Coccinella",
+        "Japanese": "\u30c6\u30f3\u30c8\u30a6\u30e0\u30b7",
+        "Korean": "\ubb34\ub2f9\ubc8c\ub808",
+        "Spanish": "Mariquita",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/18/NH-Icon-ladybug.png/revision/latest?cb=20200401005428",
         "location": "OnFlowers",
         "month": [
@@ -834,7 +1178,7 @@
             6,
             10
         ],
-        "name": " Ladybug",
+        "name": "Ladybug",
         "price": 200,
         "times": [
             {
@@ -844,6 +1188,14 @@
         ]
     },
     {
+        "Chinese": "\u864e\u7532\u866b",
+        "Dutch": "Zandloopkever",
+        "French": "Cicind\u00e8le",
+        "German": "Sandlaufk\u00e4fer",
+        "Italian": "Cicindela",
+        "Japanese": "\u30cf\u30f3\u30df\u30e7\u30a6",
+        "Korean": "\uae38\uc55e\uc7a1\uc774",
+        "Spanish": "Escarabajotigre",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e3/NH-Icon-tigerbeetle.png/revision/latest?cb=20200401005428",
         "location": "OntheGround",
         "month": [
@@ -857,7 +1209,7 @@
             9,
             10
         ],
-        "name": " Tiger beetle",
+        "name": "Tiger beetle",
         "price": 1500,
         "times": [
             {
@@ -867,6 +1219,14 @@
         ]
     },
     {
+        "Chinese": "\u5409\u4e01\u866b",
+        "Dutch": "Prachtkever",
+        "French": "Bupreste",
+        "German": "Prachtk\u00e4fer",
+        "Italian": "Stigmodera",
+        "Japanese": "\u30bf\u30de\u30e0\u30b7",
+        "Korean": "\ube44\ub2e8\ubc8c\ub808",
+        "Spanish": "Escarabajojoya",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-Icon-jewelbeetle.png/revision/latest?cb=20200401005428",
         "location": "OnTreeStumps",
         "month": [
@@ -876,7 +1236,7 @@
             7,
             8
         ],
-        "name": " Jewel beetle",
+        "name": "Jewel beetle",
         "price": 2400,
         "times": [
             {
@@ -886,6 +1246,14 @@
         ]
     },
     {
+        "Chinese": "\u63d0\u7434\u866b",
+        "Dutch": "Vioolkever",
+        "French": "Mormolyce",
+        "German": "Geigenk\u00e4fer",
+        "Italian": "Caraboviolino",
+        "Japanese": "\u30d0\u30a4\u30aa\u30ea\u30f3\u30e0\u30b7",
+        "Korean": "\ubc14\uc774\uc62c\ub9b0\ubc8c\ub808",
+        "Spanish": "Escarabajoviol\u00edn",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-Icon-violinbeetle.png/revision/latest?cb=20200401005429",
         "location": "OnTreeStumps",
         "month": [
@@ -895,7 +1263,7 @@
             10,
             11
         ],
-        "name": " Violin beetle",
+        "name": "Violin beetle",
         "price": 450,
         "times": [
             {
@@ -905,6 +1273,14 @@
         ]
     },
     {
+        "Chinese": "\u661f\u5929\u725b",
+        "Dutch": "Aziatischeboktor",
+        "French": "Capricornedesagrumes",
+        "German": "Fichtenbock",
+        "Italian": "Tarloasiatico",
+        "Japanese": "\u30b4\u30de\u30c0\u30e9\u30ab\u30df\u30ad\u30ea",
+        "Korean": "\uc54c\ub77d\ud558\ub298\uc18c",
+        "Spanish": "Longicornioasi\u00e1tico",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH-Icon-citruslonghornedbeetle.png/revision/latest?cb=20200401005428",
         "location": "OnTreeStumps",
         "month": [
@@ -921,7 +1297,7 @@
             11,
             12
         ],
-        "name": " Citrus long-horned beetle",
+        "name": "Citrus long-horned beetle",
         "price": 350,
         "times": [
             {
@@ -931,6 +1307,14 @@
         ]
     },
     {
+        "Chinese": "\u7409\u7483\u661f\u5929\u725b",
+        "Dutch": "Alpenboktor",
+        "French": "Rosaliabatesi",
+        "German": "Alpenbock",
+        "Italian": "Coleotterorosaliabatesi",
+        "Japanese": "\u30eb\u30ea\u30dc\u30b7\u30ab\u30df\u30ad\u30ea",
+        "Korean": "\ub8e8\ub9ac\ud558\ub298\uc18c",
+        "Spanish": "Escarabajorosaliabatesi",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e0/NH-Icon-rosaliabatesibeetle.png/revision/latest?cb=20200401005429",
         "location": "OnTreeStumps",
         "month": [
@@ -940,7 +1324,7 @@
             8,
             9
         ],
-        "name": " Rosalia batesi beetle",
+        "name": "Rosalia batesi beetle",
         "price": 3000,
         "times": [
             {
@@ -950,13 +1334,21 @@
         ]
     },
     {
+        "Chinese": "\u5b9d\u77f3\u8c61\u9f3b\u866b",
+        "Dutch": "Blauwesnuitkever",
+        "French": "Charan\u00e7onbleu",
+        "German": "Blaur\u00fcsselk\u00e4fer",
+        "Italian": "ColeotteroSchoenherr",
+        "Japanese": "\u30db\u30a6\u30bb\u30ad\u30be\u30a6\u30e0\u30b7",
+        "Korean": "\uc720\ud3ec\ub8e8\uc2a4\ubc14\uad6c\ubbf8",
+        "Spanish": "Gorgojoazul",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f5/NH-Icon-blueweevilbeetle.png/revision/latest?cb=20200401005428",
         "location": "OnTrees(Coconut?)",
         "month": [
             7,
             8
         ],
-        "name": " Blue weevil beetle",
+        "name": "Blue weevil beetle",
         "price": 800,
         "times": [
             {
@@ -966,6 +1358,14 @@
         ]
     },
     {
+        "Chinese": "\u8723\u8782",
+        "Dutch": "Mestkever",
+        "French": "Bousier",
+        "German": "Mistk\u00e4fer",
+        "Italian": "Scarabeostercorario",
+        "Japanese": "\u30d5\u30f3\u30b3\u30ed\u30ac\u30b7",
+        "Korean": "\uc1e0\ub625\uad6c\ub9ac",
+        "Spanish": "Escarabajopelotero",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-Icon-dungbeetle.png/revision/latest?cb=20200401005431",
         "location": "OntheGround(rollingsnowballs)",
         "month": [
@@ -973,7 +1373,7 @@
             2,
             12
         ],
-        "name": " Dung beetle",
+        "name": "Dung beetle",
         "price": 3000,
         "times": [
             {
@@ -983,6 +1383,14 @@
         ]
     },
     {
+        "Chinese": "\u96ea\u9690\u91d1\u9f9f",
+        "Dutch": "Echtemestkever",
+        "French": "Geotrupidae",
+        "German": "Gold-Mistk\u00e4fer",
+        "Italian": "Geotrupidae",
+        "Japanese": "\u30aa\u30aa\u30bb\u30f3\u30c1\u30b3\u30ac\u30cd",
+        "Korean": "\ubcf4\ub77c\uae08\ud48d\ub385\uc774",
+        "Spanish": "Escarabajogeotr\u00fapido",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Icon-earthboringdungbeetle.png/revision/latest?cb=20200401005428",
         "location": "OntheGround",
         "month": [
@@ -990,7 +1398,7 @@
             8,
             9
         ],
-        "name": " Earth-boring dung beetle",
+        "name": "Earth-boring dung beetle",
         "price": 300,
         "times": [
             {
@@ -1000,13 +1408,21 @@
         ]
     },
     {
+        "Chinese": "\u5b9d\u77f3\u91d1\u9f9f",
+        "Dutch": "Scarabee",
+        "French": "Scarab\u00e9e",
+        "German": "Goldskarab\u00e4us",
+        "Italian": "Chrysinaresplendens",
+        "Japanese": "\u30d7\u30e9\u30c1\u30ca\u30b3\u30ac\u30cd",
+        "Korean": "\ubcf4\uc11d\ud48d\ub385\uc774",
+        "Spanish": "Escarabajooro",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4c/NH-Icon-scarabbeetle.png/revision/latest?cb=20200401005429",
         "location": "OnTrees",
         "month": [
             7,
             8
         ],
-        "name": " Scarab beetle",
+        "name": "Scarab beetle",
         "price": 10000,
         "times": [
             {
@@ -1016,6 +1432,14 @@
         ]
     },
     {
+        "Chinese": "\u65e5\u94dc\u9523\u82b1\u91d1\u9f9f",
+        "Dutch": "Bladsprietkever",
+        "French": "Pseudotorynorrhina",
+        "German": "Japan-Rosenk\u00e4fer",
+        "Italian": "Cetoniadorata",
+        "Japanese": "\u30ab\u30ca\u30d6\u30f3",
+        "Korean": "\ud48d\uc774",
+        "Spanish": "Escarabajoverdejapon\u00e9s",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/99/NH-Icon-dronebeetle.png/revision/latest?cb=20200401005428",
         "location": "OnTrees",
         "month": [
@@ -1023,7 +1447,7 @@
             7,
             8
         ],
-        "name": " Drone beetle",
+        "name": "Drone beetle",
         "price": 200,
         "times": [
             {
@@ -1033,6 +1457,14 @@
         ]
     },
     {
+        "Chinese": "\u6b4c\u5229\u4e9a\u5927\u89d2\u82b1\u91d1\u9f9f",
+        "Dutch": "Goliathkever",
+        "French": "Scarab\u00e9eGoliath",
+        "German": "Goliathk\u00e4fer",
+        "Italian": "ScarabeoGolia",
+        "Japanese": "\u30b4\u30e9\u30a4\u30a2\u30b9\u30aa\u30aa\u30c4\u30ce\u30cf\u30ca\u30e0\u30b0\u30ea",
+        "Korean": "\uace8\ub9ac\uc557\uc655\uaf43\ubb34\uc9c0",
+        "Spanish": "Goliat",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5b/NH-Icon-goliathbeetle.png/revision/latest?cb=20200401005428",
         "location": "OnTrees(Coconut)",
         "month": [
@@ -1041,7 +1473,7 @@
             8,
             9
         ],
-        "name": " Goliath beetle",
+        "name": "Goliath beetle",
         "price": 8000,
         "times": [
             {
@@ -1051,13 +1483,21 @@
         ]
     },
     {
+        "Chinese": "\u952f\u9539\u5f62\u866b",
+        "Dutch": "Zaaghertkever",
+        "French": "Lucaneinclinatus",
+        "German": "S\u00e4gezahn-Hirschk\u00e4fer",
+        "Italian": "Coleotterocervo",
+        "Japanese": "\u30ce\u30b3\u30ae\u30ea\u30af\u30ef\u30ac\u30bf",
+        "Korean": "\ud1b1\uc0ac\uc2b4\ubc8c\ub808",
+        "Spanish": "Escarabajociervosierra",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/48/NH-Icon-sawstag.png/revision/latest?cb=20200401005429",
         "location": "OnTrees",
         "month": [
             7,
             8
         ],
-        "name": " Saw stag",
+        "name": "Saw stag",
         "price": 2000,
         "times": [
             {
@@ -1067,13 +1507,21 @@
         ]
     },
     {
+        "Chinese": "\u6df1\u5c71\u9539\u5f62\u866b",
+        "Dutch": "Miyama-hertkever",
+        "French": "Lucanemiyama",
+        "German": "Hirschk\u00e4fer",
+        "Italian": "Coleotterolucanide",
+        "Japanese": "\u30df\u30e4\u30de\u30af\u30ef\u30ac\u30bf",
+        "Korean": "\uc0ac\uc2b4\ubc8c\ub808",
+        "Spanish": "EscarabajociervoMiyama",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1b/NH-Icon-miyamastag.png/revision/latest?cb=20200401005429",
         "location": "OnTrees",
         "month": [
             7,
             8
         ],
-        "name": " Miyama stag",
+        "name": "Miyama stag",
         "price": 1000,
         "times": [
             {
@@ -1083,13 +1531,21 @@
         ]
     },
     {
+        "Chinese": "\u5927\u9539\u5f62\u866b",
+        "Dutch": "Reuzenhertkever",
+        "French": "Lucanecerf-volant",
+        "German": "Riesen-Hirschk\u00e4fer",
+        "Italian": "Coleotterogigante",
+        "Japanese": "\u30aa\u30aa\u30af\u30ef\u30ac\u30bf",
+        "Korean": "\uc655\uc0ac\uc2b4\ubc8c\ub808",
+        "Spanish": "Escarabajociervogigante",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/NH-Icon-giantstag.png/revision/latest?cb=20200401005428",
         "location": "OnTrees",
         "month": [
             7,
             8
         ],
-        "name": " Giant stag",
+        "name": "Giant stag",
         "price": 10000,
         "times": [
             {
@@ -1099,6 +1555,14 @@
         ]
     },
     {
+        "Chinese": "\u5f69\u8679\u9539\u5f62\u866b",
+        "Dutch": "Regenbooghertkever",
+        "French": "Lucanecoprisiris\u00e9",
+        "German": "Pracht-Hirschk\u00e4fer",
+        "Italian": "Coleotteroarcobaleno",
+        "Japanese": "\u30cb\u30b8\u30a4\u30ed\u30af\u30ef\u30ac\u30bf",
+        "Korean": "\ubba4\uc5d8\ub7ec\ub9ac\uc0ac\uc2b4\ubc8c\ub808",
+        "Spanish": "Escarabajociervoarco\u00edris",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Icon-rainbowstag.png/revision/latest?cb=20200401005429",
         "location": "OnTrees",
         "month": [
@@ -1107,7 +1571,7 @@
             8,
             9
         ],
-        "name": " Rainbow stag",
+        "name": "Rainbow stag",
         "price": 6000,
         "times": [
             {
@@ -1117,13 +1581,21 @@
         ]
     },
     {
+        "Chinese": "\u7ec6\u8eab\u8d64\u9539\u5f62\u866b",
+        "Dutch": "Vliegendhert",
+        "French": "Lucanecyclommatus",
+        "German": "Cyclommatus",
+        "Italian": "Coleotterocyclommatus",
+        "Japanese": "\u30db\u30bd\u30a2\u30ab\u30af\u30ef\u30ac\u30bf",
+        "Korean": "\uc5d8\ub77c\ud478\uc2a4\uac00\uc704\uc0ac\uc2b4\ubc8c\ub808",
+        "Spanish": "Esc.ciervocyclommatus",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/17/NH-Icon-cyclommatusstag.png/revision/latest?cb=20200401005428",
         "location": "OnTrees(Coconut)",
         "month": [
             7,
             8
         ],
-        "name": " Cyclommatus stag",
+        "name": "Cyclommatus stag",
         "price": 8000,
         "times": [
             {
@@ -1133,13 +1605,21 @@
         ]
     },
     {
+        "Chinese": "\u9ec4\u91d1\u9b3c\u9539\u5f62\u866b",
+        "Dutch": "Goudenhertkever",
+        "French": "Lucanelamprima",
+        "German": "Allotopusrosenbergi",
+        "Italian": "Coleotterodorato",
+        "Japanese": "\u30aa\u30a6\u30b4\u30f3\u30aa\u30cb\u30af\u30ef\u30ac\u30bf",
+        "Korean": "\ud669\uae08\uc0ac\uc2b4\ubc8c\ub808",
+        "Spanish": "Escarabajociervotornasol",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-Icon-goldenstag.png/revision/latest?cb=20200401005428",
         "location": "OnTrees(Coconut)",
         "month": [
             7,
             8
         ],
-        "name": " Golden stag",
+        "name": "Golden stag",
         "price": 12000,
         "times": [
             {
@@ -1155,7 +1635,7 @@
             7,
             8
         ],
-        "name": " Giraffe stag",
+        "name": "Giraffe stag",
         "price": 12000,
         "times": [
             {
@@ -1165,13 +1645,21 @@
         ]
     },
     {
+        "Chinese": "\u72ec\u89d2\u4ed9",
+        "Dutch": "Neushoornkever",
+        "French": "Scarab\u00e9ekabuto",
+        "German": "Nashornk\u00e4fer",
+        "Italian": "Scarabeokabutomushi",
+        "Japanese": "\u30ab\u30d6\u30c8\u30e0\u30b7",
+        "Korean": "\uc7a5\uc218\ud48d\ub385\uc774",
+        "Spanish": "Escarabajoastadojapon\u00e9s",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ef/NH-Icon-horneddynastid.png/revision/latest?cb=20200401005428",
         "location": "OnTrees",
         "month": [
             7,
             8
         ],
-        "name": " Horned dynastid",
+        "name": "Horned dynastid",
         "price": 1350,
         "times": [
             {
@@ -1181,13 +1669,21 @@
         ]
     },
     {
+        "Chinese": "\u9ad8\u5361\u8428\u65af\u5357\u6d0b\u5927\u515c\u866b",
+        "Dutch": "Atlaskever",
+        "French": "Scarab\u00e9eAtlas",
+        "German": "Atlask\u00e4fer",
+        "Italian": "Scarabeoatlas",
+        "Japanese": "\u30b3\u30fc\u30ab\u30b5\u30b9\u30aa\u30aa\u30ab\u30d6\u30c8",
+        "Korean": "\ucf54\uce74\uc11c\uc2a4\uc7a5\uc218\ud48d\ub385\uc774",
+        "Spanish": "Escarabajoastadoatlas",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/12/NH-Icon-hornedatlas.png/revision/latest?cb=20200401005428",
         "location": "OnTrees(Coconut)",
         "month": [
             7,
             8
         ],
-        "name": " Horned atlas",
+        "name": "Horned atlas",
         "price": 8000,
         "times": [
             {
@@ -1197,13 +1693,21 @@
         ]
     },
     {
+        "Chinese": "\u8c61\u515c\u866b",
+        "Dutch": "Olifantkever",
+        "French": "Scarab\u00e9e\u00e9l\u00e9phant",
+        "German": "Elefantenk\u00e4fer",
+        "Italian": "Scarabeoelefante",
+        "Japanese": "\u30be\u30a6\u30ab\u30d6\u30c8",
+        "Korean": "\ucf54\ub07c\ub9ac\uc7a5\uc218\ud48d\ub385\uc774",
+        "Spanish": "Escarabajoastadoelefante",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-Icon-hornedelephant.png/revision/latest?cb=20200401005429",
         "location": "OnTrees(Coconut)",
         "month": [
             7,
             8
         ],
-        "name": " Horned elephant",
+        "name": "Horned elephant",
         "price": 8000,
         "times": [
             {
@@ -1213,13 +1717,21 @@
         ]
     },
     {
+        "Chinese": "\u957f\u621f\u5927\u515c\u866b",
+        "Dutch": "Herculeskever",
+        "French": "Scarab\u00e9eHercule",
+        "German": "Herkulesk\u00e4fer",
+        "Italian": "ScarabeoErcole",
+        "Japanese": "\u30d8\u30e9\u30af\u30ec\u30b9\u30aa\u30aa\u30ab\u30d6\u30c8",
+        "Korean": "\ud5e4\ub77c\ud074\ub808\uc2a4\uc7a5\uc218\ud48d\ub385\uc774",
+        "Spanish": "Escarabajoastadoh\u00e9rcules",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/NH-Icon-hornedhercules.png/revision/latest?cb=20200401005428",
         "location": "OnTrees(Coconut)",
         "month": [
             7,
             8
         ],
-        "name": " Horned hercules",
+        "name": "Horned hercules",
         "price": 12000,
         "times": [
             {
@@ -1229,6 +1741,14 @@
         ]
     },
     {
+        "Chinese": "\u7af9\u8282\u866b",
+        "Dutch": "Wandelendetak",
+        "French": "Phasme",
+        "German": "Stabschrecke",
+        "Italian": "Insettostecco",
+        "Japanese": "\u30ca\u30ca\u30d5\u30b7",
+        "Korean": "\uae34\uc218\uc5fc\ub300\ubc8c\ub808",
+        "Spanish": "Insectopalo",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/62/NH-Icon-walkingstick.png/revision/latest?cb=20200401005428",
         "location": "OnTrees",
         "month": [
@@ -1238,7 +1758,7 @@
             10,
             11
         ],
-        "name": " Walking stick",
+        "name": "Walking stick",
         "price": 600,
         "times": [
             {
@@ -1252,6 +1772,14 @@
         ]
     },
     {
+        "Chinese": "\u53f6\u7af9\u8282\u866b",
+        "Dutch": "Wandelendblad",
+        "French": "Phyllie",
+        "German": "Blattschrecke",
+        "Italian": "Insettofoglia",
+        "Japanese": "\u30b3\u30ce\u30cf\u30e0\u30b7",
+        "Korean": "\uc78e\uc0ac\uadc0\ubc8c\ub808",
+        "Spanish": "Insectohoja",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cb/NH-Icon-walkingleaf.png/revision/latest?cb=20200401005429",
         "location": "UnderTreesDisguisedasLeafs",
         "month": [
@@ -1259,7 +1787,7 @@
             8,
             9
         ],
-        "name": " Walking leaf",
+        "name": "Walking leaf",
         "price": 600,
         "times": [
             {
@@ -1269,6 +1797,14 @@
         ]
     },
     {
+        "Chinese": "\u84d1\u8863\u866b",
+        "Dutch": "Zakjesdrager",
+        "French": "Psych\u00e9",
+        "German": "Sacktr\u00e4ger",
+        "Italian": "Brucodalfodero",
+        "Japanese": "\u30df\u30ce\u30e0\u30b7",
+        "Korean": "\ub3c4\ub871\uc774\ubc8c\ub808",
+        "Spanish": "Orugadebols\u00f3n",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/81/NH-Icon-bagworm.png/revision/latest?cb=20200401005428",
         "location": "ShakingTrees",
         "month": [
@@ -1285,7 +1821,7 @@
             11,
             12
         ],
-        "name": " Bagworm",
+        "name": "Bagworm",
         "price": 600,
         "times": [
             {
@@ -1295,6 +1831,14 @@
         ]
     },
     {
+        "Chinese": "\u8682\u8681",
+        "Dutch": "Mier",
+        "French": "Fourmi",
+        "German": "Ameise",
+        "Italian": "Formica",
+        "Japanese": "\u30a2\u30ea",
+        "Korean": "\uac1c\ubbf8",
+        "Spanish": "Hormiga",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-Icon-ant.png/revision/latest?cb=20200401005428",
         "location": "Onrottenfood",
         "month": [
@@ -1311,7 +1855,7 @@
             11,
             12
         ],
-        "name": " Ant",
+        "name": "Ant",
         "price": 80,
         "times": [
             {
@@ -1321,6 +1865,14 @@
         ]
     },
     {
+        "Chinese": "\u5bc4\u5c45\u87f9",
+        "Dutch": "Heremietkreeft",
+        "French": "Bernard-l'ermite",
+        "German": "Einsiedlerkrebs",
+        "Italian": "Granchiopaguro",
+        "Japanese": "\u30e4\u30c9\u30ab\u30ea",
+        "Korean": "\uc18c\ub77c\uac8c",
+        "Spanish": "Cangrejoermita\u00f1o",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-Icon-hermitcrab.png/revision/latest?cb=20200401005430",
         "location": "BeachdisguisedasShells",
         "month": [
@@ -1337,7 +1889,7 @@
             11,
             12
         ],
-        "name": " Hermit crab",
+        "name": "Hermit crab",
         "price": 1000,
         "times": [
             {
@@ -1347,6 +1899,14 @@
         ]
     },
     {
+        "Chinese": "\u6d77\u87d1\u8782",
+        "Dutch": "Strandpissebed",
+        "French": "Ligie",
+        "German": "Ligiaexotica",
+        "Italian": "Ligiaexotica",
+        "Japanese": "\u30d5\u30ca\u30e0\u30b7",
+        "Korean": "\uac2f\uac15\uad6c",
+        "Spanish": "Cochinilladearena",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5d/NH-Icon-wharfroach.png/revision/latest?cb=20200401005428",
         "location": "OnBeachRocks",
         "month": [
@@ -1363,7 +1923,7 @@
             11,
             12
         ],
-        "name": " Wharf roach",
+        "name": "Wharf roach",
         "price": 200,
         "times": [
             {
@@ -1373,6 +1933,14 @@
         ]
     },
     {
+        "Chinese": "\u82cd\u8747",
+        "Dutch": "Vlieg",
+        "French": "Mouche",
+        "German": "Fliege",
+        "Italian": "Mosca",
+        "Japanese": "\u30cf\u30a8",
+        "Korean": "\ud30c\ub9ac",
+        "Spanish": "Mosca",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-Icon-fly.png/revision/latest?cb=20200401005428",
         "location": "OnTrashItems",
         "month": [
@@ -1389,7 +1957,7 @@
             11,
             12
         ],
-        "name": " Fly",
+        "name": "Fly",
         "price": 60,
         "times": [
             {
@@ -1399,6 +1967,14 @@
         ]
     },
     {
+        "Chinese": "\u868a\u5b50",
+        "Dutch": "Mug",
+        "French": "Moustique",
+        "German": "M\u00fccke",
+        "Italian": "Zanzara",
+        "Japanese": "\u30ab",
+        "Korean": "\ubaa8\uae30",
+        "Spanish": "Mosquito",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-Icon-mosquito.png/revision/latest?cb=20200401005429",
         "location": "Flying",
         "month": [
@@ -1407,7 +1983,7 @@
             8,
             9
         ],
-        "name": " Mosquito",
+        "name": "Mosquito",
         "price": 130,
         "times": [
             {
@@ -1417,6 +1993,14 @@
         ]
     },
     {
+        "Chinese": "\u8df3\u86a4",
+        "Dutch": "Vlo",
+        "French": "Puce",
+        "German": "Floh",
+        "Italian": "Pulce",
+        "Japanese": "\u30ce\u30df",
+        "Korean": "\ubcbc\ub8e9",
+        "Spanish": "Pulga",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/92/NH-Icon-flea.png/revision/latest?cb=20200401005428",
         "location": "Villager'sHeads",
         "month": [
@@ -1429,7 +2013,7 @@
             10,
             11
         ],
-        "name": " Flea",
+        "name": "Flea",
         "price": 70,
         "times": [
             {
@@ -1439,6 +2023,14 @@
         ]
     },
     {
+        "Chinese": "\u8717\u725b",
+        "Dutch": "Slak",
+        "French": "Escargot",
+        "German": "Schnecke",
+        "Italian": "Chiocciola",
+        "Japanese": "\u30ab\u30bf\u30c4\u30e0\u30ea",
+        "Korean": "\ub2ec\ud33d\uc774",
+        "Spanish": "Caracol",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b1/NH-Icon-snail.png/revision/latest?cb=20200401005429",
         "location": "OnRocks(Rain)",
         "month": [
@@ -1455,7 +2047,7 @@
             11,
             12
         ],
-        "name": " Snail",
+        "name": "Snail",
         "price": 250,
         "times": [
             {
@@ -1465,6 +2057,14 @@
         ]
     },
     {
+        "Chinese": "\u9f20\u5987",
+        "Dutch": "Rolpissebed",
+        "French": "Cloporte",
+        "German": "Kugelassel",
+        "Italian": "Porcellinoditerra",
+        "Japanese": "\u30c0\u30f3\u30b4\u30e0\u30b7",
+        "Korean": "\uacf5\ubc8c\ub808",
+        "Spanish": "Cochinilla",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c5/NH-Icon-pillbug.png/revision/latest?cb=20200401005428",
         "location": "HittingRocks",
         "month": [
@@ -1479,7 +2079,7 @@
             11,
             12
         ],
-        "name": " Pill bug",
+        "name": "Pill bug",
         "price": 250,
         "times": [
             {
@@ -1489,6 +2089,14 @@
         ]
     },
     {
+        "Chinese": "\u8708\u86a3",
+        "Dutch": "Duizendpoot",
+        "French": "Mille-pattes",
+        "German": "Hundertf\u00fc\u00dfer",
+        "Italian": "Centopiedi",
+        "Japanese": "\u30e0\u30ab\u30c7",
+        "Korean": "\uc9c0\ub124",
+        "Spanish": "Ciempi\u00e9s",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/30/NH-Icon-centipede.png/revision/latest?cb=20200401005429",
         "location": "HittingRocks",
         "month": [
@@ -1503,7 +2111,7 @@
             11,
             12
         ],
-        "name": " Centipede",
+        "name": "Centipede",
         "price": 300,
         "times": [
             {
@@ -1513,6 +2121,14 @@
         ]
     },
     {
+        "Chinese": "\u8718\u86db",
+        "Dutch": "Spin",
+        "French": "Araign\u00e9e",
+        "German": "Spinne",
+        "Italian": "Ragno",
+        "Japanese": "\u30af\u30e2",
+        "Korean": "\uac70\ubbf8",
+        "Spanish": "Ara\u00f1a",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/26/NH-Icon-spider.png/revision/latest?cb=20200401005429",
         "location": "ShakingTrees",
         "month": [
@@ -1529,7 +2145,7 @@
             11,
             12
         ],
-        "name": " Spider",
+        "name": "Spider",
         "price": 480,
         "times": [
             {
@@ -1539,6 +2155,14 @@
         ]
     },
     {
+        "Chinese": "\u72fc\u86db",
+        "Dutch": "Vogelspin",
+        "French": "Tarentule",
+        "German": "Vogelspinne",
+        "Italian": "Tarantola",
+        "Japanese": "\u30bf\u30e9\u30f3\u30c1\u30e5\u30e9",
+        "Korean": "\ud0c0\ub780\ud234\ub77c",
+        "Spanish": "Tar\u00e1ntula",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0a/NH-Icon-tarantula.png/revision/latest?cb=20200401005429",
         "location": "OntheGround",
         "month": [
@@ -1549,7 +2173,7 @@
             11,
             12
         ],
-        "name": " Tarantula",
+        "name": "Tarantula",
         "price": 8000,
         "times": [
             {
@@ -1559,6 +2183,14 @@
         ]
     },
     {
+        "Chinese": "\u874e\u5b50",
+        "Dutch": "Schorpioen",
+        "French": "Scorpion",
+        "German": "Skorpion",
+        "Italian": "Scorpione",
+        "Japanese": "\u30b5\u30bd\u30ea",
+        "Korean": "\uc804\uac08",
+        "Spanish": "Escorpi\u00f3n",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/34/NH-Icon-scorpion.png/revision/latest?cb=20200401005429",
         "location": "OntheGround",
         "month": [
@@ -1569,7 +2201,7 @@
             9,
             10
         ],
-        "name": " Scorpion",
+        "name": "Scorpion",
         "price": 8000,
         "times": [
             {

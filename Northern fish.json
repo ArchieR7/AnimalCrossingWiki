@@ -1,5 +1,13 @@
 [
     {
+        "Chinese": "\u7ea2\u76ee\u9cab",
+        "Dutch": "Bittervoorn",
+        "French": "Bouvi\u00e8re",
+        "German": "Bitterling",
+        "Italian": "Rodeo",
+        "Japanese": "\u30bf\u30ca\u30b4",
+        "Korean": "\ub0a9\uc904\uac1c",
+        "Spanish": "Amarguillo",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ea/NH-Icon-bitterling.png/revision/latest?cb=20200401003128",
         "location": "River",
         "month": [
@@ -9,7 +17,7 @@
             11,
             12
         ],
-        "name": " Bitterling",
+        "name": "Bitterling",
         "price": 900,
         "shadowSize": "1",
         "times": [
@@ -20,6 +28,14 @@
         ]
     },
     {
+        "Chinese": "\u6eaa\u54e5",
+        "Dutch": "Japansedrakenvis",
+        "French": "Chevaine",
+        "German": "D\u00f6bel",
+        "Italian": "Zacco",
+        "Japanese": "\u30aa\u30a4\u30ab\u30ef",
+        "Korean": "\ud53c\ub77c\ubbf8",
+        "Spanish": "Cacho",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/NH-Icon-palechub.png/revision/latest?cb=20200401003129",
         "location": "River",
         "month": [
@@ -36,7 +52,7 @@
             11,
             12
         ],
-        "name": " Pale chub",
+        "name": "Pale chub",
         "price": 200,
         "shadowSize": "1",
         "times": [
@@ -47,6 +63,14 @@
         ]
     },
     {
+        "Chinese": "\u9cab\u9c7c",
+        "Dutch": "Kroeskarper",
+        "French": "Carassin",
+        "German": "Karausche",
+        "Italian": "Carassio",
+        "Japanese": "\u30d5\u30ca",
+        "Korean": "\ubd95\uc5b4",
+        "Spanish": "Carp\u00edn",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/03/NH-Icon-cruciancarp.png/revision/latest?cb=20200401003129",
         "location": "River",
         "month": [
@@ -63,7 +87,7 @@
             11,
             12
         ],
-        "name": " Crucian carp",
+        "name": "Crucian carp",
         "price": 160,
         "shadowSize": "2",
         "times": [
@@ -74,6 +98,14 @@
         ]
     },
     {
+        "Chinese": "\u96c5\u7f57\u9c7c",
+        "Dutch": "Serpeling",
+        "French": "Vandoise",
+        "German": "Hasel",
+        "Italian": "Lasca",
+        "Japanese": "\u30a6\u30b0\u30a4",
+        "Korean": "\ud669\uc5b4",
+        "Spanish": "Leucisco",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Icon-dace.png/revision/latest?cb=20200401003129",
         "location": "River",
         "month": [
@@ -90,7 +122,7 @@
             11,
             12
         ],
-        "name": " Dace",
+        "name": "Dace",
         "price": 192,
         "shadowSize": "3",
         "times": [
@@ -101,6 +133,14 @@
         ]
     },
     {
+        "Chinese": "\u9ca4\u9c7c",
+        "Dutch": "Karper",
+        "French": "Carpe",
+        "German": "Karpfen",
+        "Italian": "Carpa",
+        "Japanese": "\u30b3\u30a4",
+        "Korean": "\uc789\uc5b4",
+        "Spanish": "Carpa",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/NH-Icon-carp.png/revision/latest?cb=20200401003129",
         "location": "Pond",
         "month": [
@@ -117,7 +157,7 @@
             11,
             12
         ],
-        "name": " Carp",
+        "name": "Carp",
         "price": 300,
         "shadowSize": "4",
         "times": [
@@ -128,6 +168,14 @@
         ]
     },
     {
+        "Chinese": "\u9526\u9ca4",
+        "Dutch": "Koikarper",
+        "French": "Carpeko\u00ef",
+        "German": "Koi-Karpfen",
+        "Italian": "Koi",
+        "Japanese": "\u30cb\u30b7\u30ad\u30b4\u30a4",
+        "Korean": "\ube44\ub2e8\uc789\uc5b4",
+        "Spanish": "Koi",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/74/NH-Icon-koi.png/revision/latest?cb=20200401003129",
         "location": "Pond",
         "month": [
@@ -144,7 +192,7 @@
             11,
             12
         ],
-        "name": " Koi",
+        "name": "Koi",
         "price": 4000,
         "shadowSize": "4",
         "times": [
@@ -155,6 +203,14 @@
         ]
     },
     {
+        "Chinese": "\u91d1\u9c7c",
+        "Dutch": "Goudvis",
+        "French": "Poissonrouge",
+        "German": "Goldfisch",
+        "Italian": "Pescerosso",
+        "Japanese": "\u30ad\u30f3\u30ae\u30e7",
+        "Korean": "\uae08\ubd95\uc5b4",
+        "Spanish": "Pezdorado",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ed/NH-Icon-goldfish.png/revision/latest?cb=20200401003129",
         "location": "Pond",
         "month": [
@@ -171,7 +227,7 @@
             11,
             12
         ],
-        "name": " Goldfish",
+        "name": "Goldfish",
         "price": 1300,
         "shadowSize": "1",
         "times": [
@@ -182,6 +238,14 @@
         ]
     },
     {
+        "Chinese": "\u9f99\u775b\u91d1\u9c7c",
+        "Dutch": "Telescoopooggoudvis",
+        "French": "Cyprindor\u00e9",
+        "German": "Teleskopauge",
+        "Italian": "Pescetelescopio",
+        "Japanese": "\u30c7\u30e1\u30ad\u30f3",
+        "Korean": "\ud22d\ub208\uae08\ubd95\uc5b4",
+        "Spanish": "Peztelescopio",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c9/NH-Icon-popeyedgoldfish.png/revision/latest?cb=20200401003129",
         "location": "Pond",
         "month": [
@@ -198,7 +262,7 @@
             11,
             12
         ],
-        "name": " Pop-eyed goldfish",
+        "name": "Pop-eyed goldfish",
         "price": 1300,
         "shadowSize": "1",
         "times": [
@@ -209,6 +273,14 @@
         ]
     },
     {
+        "Chinese": "\u5170\u5bff\u91d1\u9c7c",
+        "Dutch": "Buffelrug",
+        "French": "Ranchu",
+        "German": "Ranchu",
+        "Italian": "Ranchu",
+        "Japanese": "\u30e9\u30f3\u30c1\u30e5\u30a6",
+        "Korean": "\ub09c\uc8fc",
+        "Spanish": "Ranch\u00fa",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-Icon-ranchugoldfish.png/revision/latest?cb=20200401003129",
         "location": "Pond",
         "month": [
@@ -225,7 +297,7 @@
             11,
             12
         ],
-        "name": " Ranchu goldfish",
+        "name": "Ranchu goldfish",
         "price": 4500,
         "shadowSize": "2",
         "times": [
@@ -236,6 +308,14 @@
         ]
     },
     {
+        "Chinese": "\u7a3b\u7530\u9c7c",
+        "Dutch": "Killivis",
+        "French": "Fondulebarr\u00e9",
+        "German": "Killifisch",
+        "Italian": "Killifish",
+        "Japanese": "\u30e1\u30c0\u30ab",
+        "Korean": "\uc1a1\uc0ac\ub9ac",
+        "Spanish": "Killi",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Icon-killifish.png/revision/latest?cb=20200401003129",
         "location": "Pond",
         "month": [
@@ -245,7 +325,7 @@
             7,
             8
         ],
-        "name": " Killifish",
+        "name": "Killifish",
         "price": 300,
         "shadowSize": "1",
         "times": [
@@ -256,6 +336,14 @@
         ]
     },
     {
+        "Chinese": "\u6de1\u6c34\u9f99\u867e",
+        "Dutch": "Roderivierkreeft",
+        "French": "\u00c9crevisse",
+        "German": "Flusskrebs",
+        "Italian": "Gambero",
+        "Japanese": "\u30b6\u30ea\u30ac\u30cb",
+        "Korean": "\uac00\uc7ac",
+        "Spanish": "Cangrejoder\u00edo",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cd/NH-Icon-crawfish.png/revision/latest?cb=20200401003129",
         "location": "Pond",
         "month": [
@@ -266,7 +354,7 @@
             8,
             9
         ],
-        "name": " Crawfish",
+        "name": "Crawfish",
         "price": 200,
         "shadowSize": "2",
         "times": [
@@ -277,13 +365,21 @@
         ]
     },
     {
+        "Chinese": "\u9cd6",
+        "Dutch": "Weekschildpad",
+        "French": "Tortuetrionyx",
+        "German": "Weichschildkr\u00f6te",
+        "Italian": "Apaloneferox",
+        "Japanese": "\u30b9\u30c3\u30dd\u30f3",
+        "Korean": "\uc790\ub77c",
+        "Spanish": "Tortugacaparaz\u00f3nblando",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Icon-softshelledturtle.png/revision/latest?cb=20200401003129",
         "location": "River",
         "month": [
             8,
             9
         ],
-        "name": " Soft-shelled turtle",
+        "name": "Soft-shelled turtle",
         "price": 3750,
         "shadowSize": "4",
         "times": [
@@ -294,6 +390,14 @@
         ]
     },
     {
+        "Chinese": "\u62df\u9cc4\u9f9f",
+        "Dutch": "Bijtschildpad",
+        "French": "Tortueserpentine",
+        "German": "Schnappschildkr\u00f6te",
+        "Italian": "Tartarugaazzannatrice",
+        "Japanese": "\u30ab\u30df\u30c4\u30ad\u30ac\u30e1",
+        "Korean": "\ub291\ub300\uac70\ubd81",
+        "Spanish": "Tortugamordedora",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/24/NH-Icon-snappingturtle.png/revision/latest?cb=20200401003129",
         "location": "River",
         "month": [
@@ -305,7 +409,7 @@
             9,
             10
         ],
-        "name": " Snapping Turtle",
+        "name": "Snapping Turtle",
         "price": 5000,
         "shadowSize": "5",
         "times": [
@@ -316,6 +420,14 @@
         ]
     },
     {
+        "Chinese": "\u874c\u86aa",
+        "Dutch": "Kikkervisje",
+        "French": "T\u00eatard",
+        "German": "Kaulquappe",
+        "Italian": "Girino",
+        "Japanese": "\u30aa\u30bf\u30de\u30b8\u30e3\u30af\u30b7",
+        "Korean": "\uc62c\ucc59\uc774",
+        "Spanish": "Renacuajo",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Icon-tadpole.png/revision/latest?cb=20200401003129",
         "location": "Pond",
         "month": [
@@ -325,7 +437,7 @@
             6,
             7
         ],
-        "name": " Tadpole",
+        "name": "Tadpole",
         "price": 100,
         "shadowSize": "1",
         "times": [
@@ -344,7 +456,7 @@
             7,
             8
         ],
-        "name": " Frog",
+        "name": "Frog",
         "price": 120,
         "shadowSize": "2",
         "times": [
@@ -355,6 +467,14 @@
         ]
     },
     {
+        "Chinese": "\u5858\u9ce2\u9c7c",
+        "Dutch": "Zoetwatergrondel",
+        "French": "Gobied'eaudouce",
+        "German": "Flussgrundel",
+        "Italian": "Ghiozzo",
+        "Japanese": "\u30c9\u30f3\u30b3",
+        "Korean": "\ub3d9\uc0ac\ub9ac",
+        "Spanish": "Gobioder\u00edo",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ee/NH-Icon-freshwatergoby.png/revision/latest?cb=20200401003129",
         "location": "River",
         "month": [
@@ -371,7 +491,7 @@
             11,
             12
         ],
-        "name": " Freshwater goby",
+        "name": "Freshwater goby",
         "price": 400,
         "shadowSize": "2",
         "times": [
@@ -382,6 +502,14 @@
         ]
     },
     {
+        "Chinese": "\u6ce5\u9cc5",
+        "Dutch": "Modderkruiper",
+        "French": "Loched'\u00e9tang",
+        "German": "Bachschmerle",
+        "Italian": "Cobite",
+        "Japanese": "\u30c9\u30b8\u30e7\u30a6",
+        "Korean": "\ubbf8\uafb8\ub77c\uc9c0",
+        "Spanish": "Locha",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/77/NH-Icon-loach.png/revision/latest?cb=20200401003129",
         "location": "River",
         "month": [
@@ -389,7 +517,7 @@
             4,
             5
         ],
-        "name": " Loach",
+        "name": "Loach",
         "price": 400,
         "shadowSize": "2",
         "times": [
@@ -400,6 +528,14 @@
         ]
     },
     {
+        "Chinese": "\u9cb6\u9c7c",
+        "Dutch": "Meerval",
+        "French": "Silure",
+        "German": "Katzenwels",
+        "Italian": "Pescegatto",
+        "Japanese": "\u30ca\u30de\u30ba",
+        "Korean": "\uba54\uae30",
+        "Spanish": "Siluro",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/29/NH-Icon-catfish.png/revision/latest?cb=20200401003129",
         "location": "Pond",
         "month": [
@@ -410,7 +546,7 @@
             9,
             10
         ],
-        "name": " Catfish",
+        "name": "Catfish",
         "price": 800,
         "shadowSize": "4",
         "times": [
@@ -421,6 +557,14 @@
         ]
     },
     {
+        "Chinese": "\u9ed1\u9c7c",
+        "Dutch": "Rodeslangenkopvis",
+        "French": "T\u00eate-de-serpent",
+        "German": "Schlangenkopf",
+        "Italian": "Pesceserpente",
+        "Japanese": "\u30e9\u30a4\u30ae\u30e7",
+        "Korean": "\uac00\ubb3c\uce58",
+        "Spanish": "Pezcabezadeserpiente",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Icon-giantsnakehead.png/revision/latest?cb=20200401003129",
         "location": "Pond",
         "month": [
@@ -428,7 +572,7 @@
             7,
             8
         ],
-        "name": " Giant snakehead",
+        "name": "Giant snakehead",
         "price": 5500,
         "shadowSize": "5",
         "times": [
@@ -455,7 +599,7 @@
             11,
             12
         ],
-        "name": " Bluegill",
+        "name": "Bluegill",
         "price": 180,
         "shadowSize": "2",
         "times": [
@@ -466,6 +610,14 @@
         ]
     },
     {
+        "Chinese": "\u9ec4\u9c88\u9c7c",
+        "Dutch": "Jackbaars",
+        "French": "Perchejaune",
+        "German": "Flussbarsch",
+        "Italian": "Percadorata",
+        "Japanese": "\u30a4\u30a8\u30ed\u30fc\u30d1\u30fc\u30c1",
+        "Korean": "\uc610\ub85c\uc6b0\ud37c\uce58",
+        "Spanish": "Percaamarilla",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1d/NH-Icon-yellowperch.png/revision/latest?cb=20200401003129",
         "location": "River",
         "month": [
@@ -476,7 +628,7 @@
             11,
             12
         ],
-        "name": " Yellow perch",
+        "name": "Yellow perch",
         "price": 300,
         "shadowSize": "3",
         "times": [
@@ -503,7 +655,7 @@
             11,
             12
         ],
-        "name": " Black bass",
+        "name": "Black bass",
         "price": 320,
         "shadowSize": "4",
         "times": [
@@ -514,6 +666,14 @@
         ]
     },
     {
+        "Chinese": "\u5434\u90ed\u9c7c",
+        "Dutch": "Tilapia",
+        "French": "Tilapia",
+        "German": "Tilapia",
+        "Italian": "Tilapia",
+        "Japanese": "\u30c6\u30a3\u30e9\u30d4\u30a2",
+        "Korean": "\ud2f8\ub77c\ud53c\uc544",
+        "Spanish": "Tilapia",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-Icon-tilapia.png/revision/latest?cb=20200401003129",
         "location": "River",
         "month": [
@@ -523,7 +683,7 @@
             9,
             10
         ],
-        "name": " Tilapia",
+        "name": "Tilapia",
         "price": 800,
         "shadowSize": "3",
         "times": [
@@ -534,6 +694,14 @@
         ]
     },
     {
+        "Chinese": "\u767d\u6591\u72d7\u9c7c",
+        "Dutch": "Snoek",
+        "French": "Brochet",
+        "German": "Hecht",
+        "Italian": "Luccionordico",
+        "Japanese": "\u30d1\u30a4\u30af",
+        "Korean": "\uac15\uaf2c\uce58\uace0\uae30",
+        "Spanish": "Lucio",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dc/NH-Icon-pike.png/revision/latest?cb=20200401003130",
         "location": "River",
         "month": [
@@ -542,7 +710,7 @@
             11,
             12
         ],
-        "name": " Pike",
+        "name": "Pike",
         "price": 1800,
         "shadowSize": "5",
         "times": [
@@ -553,6 +721,14 @@
         ]
     },
     {
+        "Chinese": "\u897f\u592a\u516c\u9c7c",
+        "Dutch": "Spiering",
+        "French": "\u00c9perlan",
+        "German": "Stint",
+        "Italian": "Pingo",
+        "Japanese": "\u30ef\u30ab\u30b5\u30ae",
+        "Korean": "\ube59\uc5b4",
+        "Spanish": "Eperlano",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/41/NH-Icon-pondsmelt.png/revision/latest?cb=20200401003130",
         "location": "River",
         "month": [
@@ -560,7 +736,7 @@
             2,
             12
         ],
-        "name": " Pond smelt",
+        "name": "Pond smelt",
         "price": 500,
         "shadowSize": "2",
         "times": [
@@ -571,6 +747,14 @@
         ]
     },
     {
+        "Chinese": "\u9999\u9c7c",
+        "Dutch": "Ayu",
+        "French": "Ayu",
+        "German": "Ayu",
+        "Italian": "Ayu",
+        "Japanese": "\u30a2\u30e6",
+        "Korean": "\uc740\uc5b4",
+        "Spanish": "Ayu",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/40/NH-Icon-sweetfish.png/revision/latest?cb=20200401003129",
         "location": "River",
         "month": [
@@ -578,7 +762,7 @@
             8,
             9
         ],
-        "name": " Sweetfish",
+        "name": "Sweetfish",
         "price": 900,
         "shadowSize": "3",
         "times": [
@@ -589,6 +773,14 @@
         ]
     },
     {
+        "Chinese": "\u6a31\u82b1\u94a9\u543b\u9c91",
+        "Dutch": "Japansezalm",
+        "French": "Saumonmasou",
+        "German": "Masulachs",
+        "Italian": "Salmonegiapponese",
+        "Japanese": "\u30e4\u30de\u30e1",
+        "Korean": "\uc0b0\ucc9c\uc5b4",
+        "Spanish": "Salm\u00f3njapon\u00e9s",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH-Icon-cherrysalmon.png/revision/latest?cb=20200401003129",
         "location": "River(Clifftop)",
         "month": [
@@ -600,7 +792,7 @@
             10,
             11
         ],
-        "name": " Cherry salmon",
+        "name": "Cherry salmon",
         "price": 800,
         "shadowSize": "3",
         "times": [
@@ -611,6 +803,14 @@
         ]
     },
     {
+        "Chinese": "\u82b1\u7f94\u7ea2\u70b9\u9c91",
+        "Dutch": "Bronforel",
+        "French": "Omble",
+        "German": "Saibling",
+        "Italian": "Salmerinoalpino",
+        "Japanese": "\u30aa\u30aa\u30a4\u30ef\u30ca",
+        "Korean": "\uc5f4\ubaa9\uc5b4",
+        "Spanish": "Trucha",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/15/NH-Icon-char.png/revision/latest?cb=20200401003129",
         "location": "River(Clifftop)Pond",
         "month": [
@@ -622,7 +822,7 @@
             10,
             11
         ],
-        "name": " Char",
+        "name": "Char",
         "price": 3800,
         "shadowSize": "3",
         "times": [
@@ -633,6 +833,14 @@
         ]
     },
     {
+        "Chinese": "\u91d1\u9cdf",
+        "Dutch": "Goudforel",
+        "French": "Truitedor\u00e9e",
+        "German": "Goldforelle",
+        "Italian": "Trotadorata",
+        "Japanese": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30c8\u30e9\u30a6\u30c8",
+        "Korean": "\uae08\uc1a1\uc5b4",
+        "Spanish": "Truchadorada",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5c/NH-Icon-goldentrout.png/revision/latest?cb=20200401003129",
         "location": "River(Clifftop)",
         "month": [
@@ -643,7 +851,7 @@
             10,
             11
         ],
-        "name": " Golden trout",
+        "name": "Golden trout",
         "price": 15000,
         "shadowSize": "3",
         "times": [
@@ -654,6 +862,14 @@
         ]
     },
     {
+        "Chinese": "\u8fdc\u4e1c\u54f2\u7f57\u9c7c",
+        "Dutch": "Donauzalm",
+        "French": "Daiyu",
+        "German": "Huchen",
+        "Italian": "Taimen",
+        "Japanese": "\u30a4\u30c8\u30a6",
+        "Korean": "\uc77c\ubcf8\uc5f0\uc5b4",
+        "Spanish": "Taim\u00e9n",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7b/NH-Icon-stringfish.png/revision/latest?cb=20200401003129",
         "location": "River(Clifftop)",
         "month": [
@@ -662,7 +878,7 @@
             3,
             12
         ],
-        "name": " Stringfish",
+        "name": "Stringfish",
         "price": 15000,
         "shadowSize": "5",
         "times": [
@@ -678,7 +894,7 @@
         "month": [
             9
         ],
-        "name": " Salmon",
+        "name": "Salmon",
         "price": 700,
         "shadowSize": "4",
         "times": [
@@ -689,12 +905,20 @@
         ]
     },
     {
+        "Chinese": "\u5e1d\u738b\u9c91",
+        "Dutch": "Chinookzalm",
+        "French": "Saumonroi",
+        "German": "K\u00f6nigslachs",
+        "Italian": "Salmonereale",
+        "Japanese": "\u30ad\u30f3\u30b0\u30b5\u30fc\u30e2\u30f3",
+        "Korean": "\uc655\uc5f0\uc5b4",
+        "Spanish": "Salm\u00f3nreal",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fd/NH-Icon-kingsalmon.png/revision/latest?cb=20200401003129",
         "location": "River(Mouth)",
         "month": [
             9
         ],
-        "name": " King salmon",
+        "name": "King salmon",
         "price": 1800,
         "shadowSize": "6",
         "times": [
@@ -705,6 +929,14 @@
         ]
     },
     {
+        "Chinese": "\u4e2d\u534e\u7ed2\u87af\u87f9",
+        "Dutch": "Wolhandkrab",
+        "French": "Crabechinois",
+        "German": "Wollhandkrabbe",
+        "Italian": "Granchioguantato",
+        "Japanese": "\u30b7\u30e3\u30f3\u30cf\u30a4\u30ac\u30cb",
+        "Korean": "\ucc38\uac8c",
+        "Spanish": "CangrejodeShangh\u00e1i",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e3/NH-Icon-mittencrab.png/revision/latest?cb=20200401003129",
         "location": "River",
         "month": [
@@ -712,7 +944,7 @@
             10,
             11
         ],
-        "name": " Mitten crab",
+        "name": "Mitten crab",
         "price": 2000,
         "shadowSize": "2",
         "times": [
@@ -723,6 +955,14 @@
         ]
     },
     {
+        "Chinese": "\u5b54\u96c0\u9c7c",
+        "Dutch": "Guppy",
+        "French": "Guppy",
+        "German": "Guppy",
+        "Italian": "Guppy",
+        "Japanese": "\u30b0\u30c3\u30d4\u30fc",
+        "Korean": "\uad6c\ud53c",
+        "Spanish": "Gupi",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-Icon-guppy.png/revision/latest?cb=20200401003129",
         "location": "River",
         "month": [
@@ -735,7 +975,7 @@
             10,
             11
         ],
-        "name": " Guppy",
+        "name": "Guppy",
         "price": 1300,
         "shadowSize": "1",
         "times": [
@@ -746,6 +986,14 @@
         ]
     },
     {
+        "Chinese": "\u6e29\u6cc9\u533b\u751f\u9c7c",
+        "Dutch": "Knabbelvisje",
+        "French": "Poissondocteur",
+        "German": "Saugbarbe",
+        "Italian": "Garrarufa",
+        "Japanese": "\u30c9\u30af\u30bf\u30fc\u30d5\u30a3\u30c3\u30b7\u30e5",
+        "Korean": "\ub2e5\ud130\ud53c\uc2dc",
+        "Spanish": "Pezdoctor",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/NH-Icon-nibblefish.png/revision/latest?cb=20200401003129",
         "location": "River",
         "month": [
@@ -755,7 +1003,7 @@
             8,
             9
         ],
-        "name": " Nibble fish",
+        "name": "Nibble fish",
         "price": 1500,
         "shadowSize": "1",
         "times": [
@@ -776,7 +1024,7 @@
             9,
             10
         ],
-        "name": " Angelfish",
+        "name": "Angelfish",
         "price": 3000,
         "shadowSize": "2",
         "times": [
@@ -787,6 +1035,14 @@
         ]
     },
     {
+        "Chinese": "\u6597\u9c7c",
+        "Dutch": "Siamesekempvis",
+        "French": "Combattant",
+        "German": "Kampffisch",
+        "Italian": "Betta",
+        "Japanese": "\u30d9\u30bf",
+        "Korean": "\ubca0\ud0c0",
+        "Spanish": "Betta",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7c/NH-Icon-betta.png/revision/latest?cb=20200401003129",
         "location": "River",
         "month": [
@@ -797,7 +1053,7 @@
             9,
             10
         ],
-        "name": " Betta",
+        "name": "Betta",
         "price": 2500,
         "shadowSize": "2",
         "times": [
@@ -820,7 +1076,7 @@
             10,
             11
         ],
-        "name": " Neon tetra",
+        "name": "Neon tetra",
         "price": 500,
         "shadowSize": "1",
         "times": [
@@ -831,6 +1087,14 @@
         ]
     },
     {
+        "Chinese": "\u5f69\u8679\u9c7c",
+        "Dutch": "Regenboogvis",
+        "French": "Poissonarc-en-ciel",
+        "German": "Regenbogenfisch",
+        "Italian": "Pescearcobaleno",
+        "Japanese": "\u30ec\u30a4\u30f3\u30dc\u30fc\u30d5\u30a3\u30c3\u30b7\u30e5",
+        "Korean": "\ub808\uc778\ubcf4\uc6b0\ud53c\uc2dc",
+        "Spanish": "Pezarco\u00edris",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/68/NH-Icon-rainbowfish.png/revision/latest?cb=20200401003129",
         "location": "River",
         "month": [
@@ -841,7 +1105,7 @@
             9,
             10
         ],
-        "name": " Rainbowfish",
+        "name": "Rainbowfish",
         "price": 800,
         "shadowSize": "1",
         "times": [
@@ -852,6 +1116,14 @@
         ]
     },
     {
+        "Chinese": "\u98df\u4eba\u9c7c",
+        "Dutch": "Piranha",
+        "French": "Piranha",
+        "German": "Piranha",
+        "Italian": "Pescepiranha",
+        "Japanese": "\u30d4\u30e9\u30cb\u30a2",
+        "Korean": "\ud53c\ub77c\ub2c8\uc544",
+        "Spanish": "Pira\u00f1a",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b9/NH-Icon-piranha.png/revision/latest?cb=20200401003130",
         "location": "River",
         "month": [
@@ -860,7 +1132,7 @@
             8,
             9
         ],
-        "name": " Piranha",
+        "name": "Piranha",
         "price": 2500,
         "shadowSize": "2",
         "times": [
@@ -883,7 +1155,7 @@
             8,
             9
         ],
-        "name": " Arowana",
+        "name": "Arowana",
         "price": 10000,
         "shadowSize": "4",
         "times": [
@@ -894,6 +1166,14 @@
         ]
     },
     {
+        "Chinese": "\u9ec4\u91d1\u6cb3\u864e",
+        "Dutch": "Dorado",
+        "French": "Dorade",
+        "German": "Lachssalmler",
+        "Italian": "Dorado",
+        "Japanese": "\u30c9\u30e9\u30c9",
+        "Korean": "\ud669\uae08\uc5f0\uc5b4",
+        "Spanish": "Dorado",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/NH-Icon-dorado.png/revision/latest?cb=20200401003129",
         "location": "River",
         "month": [
@@ -902,7 +1182,7 @@
             8,
             9
         ],
-        "name": " Dorado",
+        "name": "Dorado",
         "price": 15000,
         "shadowSize": "5",
         "times": [
@@ -913,6 +1193,14 @@
         ]
     },
     {
+        "Chinese": "\u96c0\u9cdd",
+        "Dutch": "Kaaimansnoek",
+        "French": "Gar",
+        "German": "Knochenhecht",
+        "Italian": "Luccio",
+        "Japanese": "\u30ac\u30fc",
+        "Korean": "\uac00\uc544",
+        "Spanish": "Pezcaim\u00e1n",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9f/NH-Icon-gar.png/revision/latest?cb=20200401003129",
         "location": "Pond",
         "month": [
@@ -921,7 +1209,7 @@
             8,
             9
         ],
-        "name": " Gar",
+        "name": "Gar",
         "price": 6000,
         "shadowSize": "6",
         "times": [
@@ -940,7 +1228,7 @@
             8,
             9
         ],
-        "name": " Arapaima",
+        "name": "Arapaima",
         "price": 10000,
         "shadowSize": "6",
         "times": [
@@ -959,7 +1247,7 @@
             8,
             9
         ],
-        "name": " Saddled bichir",
+        "name": "Saddled bichir",
         "price": 4000,
         "shadowSize": "4",
         "times": [
@@ -970,6 +1258,14 @@
         ]
     },
     {
+        "Chinese": "\u9c9f\u9c7c",
+        "Dutch": "Steur",
+        "French": "Esturgeon",
+        "German": "St\u00f6r",
+        "Italian": "Storione",
+        "Japanese": "\u30c1\u30e7\u30a6\u30b6\u30e1",
+        "Korean": "\ucca0\uac11\uc0c1\uc5b4",
+        "Spanish": "Esturi\u00f3n",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-Icon-sturgeon.png/revision/latest?cb=20200401003129",
         "location": "River(Mouth)",
         "month": [
@@ -981,7 +1277,7 @@
             11,
             12
         ],
-        "name": " Sturgeon",
+        "name": "Sturgeon",
         "price": 10000,
         "shadowSize": "6",
         "times": [
@@ -992,6 +1288,14 @@
         ]
     },
     {
+        "Chinese": "\u6d77\u8774\u8776",
+        "Dutch": "Zeevlinder",
+        "French": "Clione",
+        "German": "See-Engel",
+        "Italian": "Cavolinia",
+        "Japanese": "\u30af\u30ea\u30aa\u30cd",
+        "Korean": "\ud074\ub9ac\uc624\ub124",
+        "Spanish": "Mariposamarina",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH-Icon-seabutterfly.png/revision/latest?cb=20200401003129",
         "location": "Sea",
         "month": [
@@ -1000,7 +1304,7 @@
             3,
             12
         ],
-        "name": " Sea butterfly",
+        "name": "Sea butterfly",
         "price": 1000,
         "shadowSize": "1",
         "times": [
@@ -1023,7 +1327,7 @@
             10,
             11
         ],
-        "name": " Sea horse",
+        "name": "Sea horse",
         "price": 1100,
         "shadowSize": "1",
         "times": [
@@ -1044,7 +1348,7 @@
             8,
             9
         ],
-        "name": " Clown fish",
+        "name": "Clown fish",
         "price": 650,
         "shadowSize": "1",
         "times": [
@@ -1055,6 +1359,14 @@
         ]
     },
     {
+        "Chinese": "\u62df\u523a\u5c3e\u9cb7",
+        "Dutch": "Doktersvis",
+        "French": "Poissonchirurgien",
+        "German": "Paletten-Doktorfisch",
+        "Italian": "Pescechirurgo",
+        "Japanese": "\u30ca\u30f3\u30e8\u30a6\u30cf\u30ae",
+        "Korean": "\ube14\ub8e8\ud0f1",
+        "Spanish": "Pezcirujano",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/11/NH-Icon-surgeonfish.png/revision/latest?cb=20200401003129",
         "location": "Sea",
         "month": [
@@ -1065,7 +1377,7 @@
             8,
             9
         ],
-        "name": " Surgeonfish",
+        "name": "Surgeonfish",
         "price": 1000,
         "shadowSize": "2",
         "times": [
@@ -1076,6 +1388,14 @@
         ]
     },
     {
+        "Chinese": "\u8033\u5e26\u8774\u8776\u9c7c",
+        "Dutch": "Koraalvlinder",
+        "French": "Poisson-papillon",
+        "German": "Falterfisch",
+        "Italian": "Pescefarfalla",
+        "Japanese": "\u30c1\u30e7\u30a6\u30c1\u30e7\u30a6\u30a6\u30aa",
+        "Korean": "\ub098\ube44\uace0\uae30",
+        "Spanish": "Pezmariposa",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8e/NH-Icon-butterflyfish.png/revision/latest?cb=20200401003129",
         "location": "Sea",
         "month": [
@@ -1086,7 +1406,7 @@
             8,
             9
         ],
-        "name": " Butterfly fish",
+        "name": "Butterfly fish",
         "price": 1000,
         "shadowSize": "2",
         "times": [
@@ -1097,13 +1417,21 @@
         ]
     },
     {
+        "Chinese": "\u82cf\u7709\u9c7c",
+        "Dutch": "Napoleonvis",
+        "French": "Napol\u00e9on",
+        "German": "Napoleonfisch",
+        "Italian": "Pescenapoleone",
+        "Japanese": "\u30ca\u30dd\u30ec\u30aa\u30f3\u30d5\u30a3\u30c3\u30b7\u30e5",
+        "Korean": "\ub098\ud3f4\ub808\uc639\ud53c\uc2dc",
+        "Spanish": "Peznapole\u00f3n",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-Icon-napoleonfish.png/revision/latest?cb=20200401003129",
         "location": "Sea",
         "month": [
             7,
             8
         ],
-        "name": " Napoleonfish",
+        "name": "Napoleonfish",
         "price": 10000,
         "shadowSize": "6",
         "times": [
@@ -1126,7 +1454,7 @@
             10,
             11
         ],
-        "name": " Zebra turkeyfish",
+        "name": "Zebra turkeyfish",
         "price": 500,
         "shadowSize": "3",
         "times": [
@@ -1137,6 +1465,14 @@
         ]
     },
     {
+        "Chinese": "\u6cb3\u8c5a",
+        "Dutch": "Kogelvis",
+        "French": "Poisson-ballon",
+        "German": "Kugelfisch",
+        "Italian": "Pescepalla",
+        "Japanese": "\u30d5\u30b0",
+        "Korean": "\ubcf5\uc5b4",
+        "Spanish": "Pezglobo",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/39/NH-Icon-blowfish.png/revision/latest?cb=20200401003129",
         "location": "Sea",
         "month": [
@@ -1145,7 +1481,7 @@
             11,
             12
         ],
-        "name": " Blowfish",
+        "name": "Blowfish",
         "price": 5000,
         "shadowSize": "3",
         "times": [
@@ -1156,6 +1492,14 @@
         ]
     },
     {
+        "Chinese": "\u523a\u8c5a",
+        "Dutch": "Egelvis",
+        "French": "Poisson-porc-\u00e9pic",
+        "German": "Igelfisch",
+        "Italian": "Pesceistrice",
+        "Japanese": "\u30cf\u30ea\u30bb\u30f3\u30dc\u30f3",
+        "Korean": "\uac00\uc2dc\ubcf5",
+        "Spanish": "Pezerizo",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Icon-pufferfish.png/revision/latest?cb=20200401003130",
         "location": "Sea",
         "month": [
@@ -1163,7 +1507,7 @@
             8,
             9
         ],
-        "name": " Puffer fish",
+        "name": "Puffer fish",
         "price": 250,
         "shadowSize": "3",
         "times": [
@@ -1190,7 +1534,7 @@
             11,
             12
         ],
-        "name": " Anchovy",
+        "name": "Anchovy",
         "price": 200,
         "shadowSize": "2",
         "times": [
@@ -1201,6 +1545,14 @@
         ]
     },
     {
+        "Chinese": "\u7af9\u835a\u9c7c",
+        "Dutch": "Horsmakreel",
+        "French": "Chinchard",
+        "German": "Makrele",
+        "Italian": "Sgombro",
+        "Japanese": "\u30a2\u30b8",
+        "Korean": "\uc804\uac31\uc774",
+        "Spanish": "Jurel",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d5/NH-Icon-horsemackerel.png/revision/latest?cb=20200401003129",
         "location": "Sea",
         "month": [
@@ -1217,7 +1569,7 @@
             11,
             12
         ],
-        "name": " Horse mackerel",
+        "name": "Horse mackerel",
         "price": 150,
         "shadowSize": "2",
         "times": [
@@ -1228,6 +1580,14 @@
         ]
     },
     {
+        "Chinese": "\u6761\u77f3\u9cb7",
+        "Dutch": "Kraaibek",
+        "French": "Scarus",
+        "German": "Schnabelbarsch",
+        "Italian": "Ishidai",
+        "Japanese": "\u30a4\u30b7\u30c0\u30a4",
+        "Korean": "\ub3cc\ub3d4",
+        "Spanish": "Doradajaponesa",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8c/NH-Icon-barredknifejaw.png/revision/latest?cb=20200401003128",
         "location": "Sea",
         "month": [
@@ -1241,7 +1601,7 @@
             10,
             11
         ],
-        "name": " Barred knifejaw",
+        "name": "Barred knifejaw",
         "price": 5000,
         "shadowSize": "3",
         "times": [
@@ -1252,6 +1612,14 @@
         ]
     },
     {
+        "Chinese": "\u9c88\u9c7c",
+        "Dutch": "Zeebaars",
+        "French": "Barcommun",
+        "German": "Seebarsch",
+        "Italian": "Spigola",
+        "Japanese": "\u30b9\u30ba\u30ad",
+        "Korean": "\ub18d\uc5b4",
+        "Spanish": "Lubina",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Icon-seabass.png/revision/latest?cb=20200401003130",
         "location": "Sea",
         "month": [
@@ -1268,7 +1636,7 @@
             11,
             12
         ],
-        "name": " Sea bass",
+        "name": "Sea bass",
         "price": 400,
         "shadowSize": "5",
         "times": [
@@ -1279,6 +1647,14 @@
         ]
     },
     {
+        "Chinese": "\u9cb7\u9c7c",
+        "Dutch": "Rodesnapper",
+        "French": "Vivaneau",
+        "German": "Kaiserschnapper",
+        "Italian": "Lutianorosso",
+        "Japanese": "\u30bf\u30a4",
+        "Korean": "\ub3c4\ubbf8",
+        "Spanish": "Pargorojo",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dd/NH-Icon-redsnapper.png/revision/latest?cb=20200401003130",
         "location": "Sea",
         "month": [
@@ -1295,7 +1671,7 @@
             11,
             12
         ],
-        "name": " Red snapper",
+        "name": "Red snapper",
         "price": 3000,
         "shadowSize": "4",
         "times": [
@@ -1306,6 +1682,14 @@
         ]
     },
     {
+        "Chinese": "\u9cbd\u9c7c",
+        "Dutch": "Schar",
+        "French": "Limande",
+        "German": "Kliesche",
+        "Italian": "Platessa",
+        "Japanese": "\u30ab\u30ec\u30a4",
+        "Korean": "\uac00\uc790\ubbf8",
+        "Spanish": "Gallo",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c6/NH-Icon-dab.png/revision/latest?cb=20200401003129",
         "location": "Sea",
         "month": [
@@ -1317,7 +1701,7 @@
             11,
             12
         ],
-        "name": " Dab",
+        "name": "Dab",
         "price": 300,
         "shadowSize": "3",
         "times": [
@@ -1328,6 +1712,14 @@
         ]
     },
     {
+        "Chinese": "\u6bd4\u76ee\u9c7c",
+        "Dutch": "Bot",
+        "French": "Cardeau",
+        "German": "Flunder",
+        "Italian": "Sogliola",
+        "Japanese": "\u30d2\u30e9\u30e1",
+        "Korean": "\ub119\uce58",
+        "Spanish": "Rodaballo",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-Icon-oliveflounder.png/revision/latest?cb=20200401003129",
         "location": "Sea",
         "month": [
@@ -1344,7 +1736,7 @@
             11,
             12
         ],
-        "name": " Olive flounder",
+        "name": "Olive flounder",
         "price": 800,
         "shadowSize": "5",
         "times": [
@@ -1355,6 +1747,14 @@
         ]
     },
     {
+        "Chinese": "\u9c7f\u9c7c",
+        "Dutch": "Pijlinktvis",
+        "French": "Calmar",
+        "German": "Kalmar",
+        "Italian": "Calamaro",
+        "Japanese": "\u30a4\u30ab",
+        "Korean": "\uc624\uc9d5\uc5b4",
+        "Spanish": "Calamar",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3b/NH-Icon-squid.png/revision/latest?cb=20200401003130",
         "location": "Sea",
         "month": [
@@ -1368,7 +1768,7 @@
             8,
             12
         ],
-        "name": " Squid",
+        "name": "Squid",
         "price": 500,
         "shadowSize": "3",
         "times": [
@@ -1379,6 +1779,14 @@
         ]
     },
     {
+        "Chinese": "\u88f8\u80f8\u9cdd",
+        "Dutch": "Murene",
+        "French": "Mur\u00e8ne",
+        "German": "Mur\u00e4ne",
+        "Italian": "Murena",
+        "Japanese": "\u30a6\u30c4\u30dc",
+        "Korean": "\uacf0\uce58",
+        "Spanish": "Morena",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e5/NH-Icon-morayeel.png/revision/latest?cb=20200401003130",
         "location": "Sea",
         "month": [
@@ -1386,7 +1794,7 @@
             9,
             10
         ],
-        "name": " Moray eel",
+        "name": "Moray eel",
         "price": 2000,
         "shadowSize": "Narrow",
         "times": [
@@ -1397,6 +1805,14 @@
         ]
     },
     {
+        "Chinese": "\u4e94\u5f69\u9cd7",
+        "Dutch": "Lintmurene",
+        "French": "Mur\u00e8nerubanbleue",
+        "German": "Nasenmur\u00e4ne",
+        "Italian": "Murenaanastro",
+        "Japanese": "\u30cf\u30ca\u30d2\u30b2\u30a6\u30c4\u30dc",
+        "Korean": "\ub9ac\ubcf8\uc7a5\uc5b4",
+        "Spanish": "Anguiladelist\u00f3nazul",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ac/NH-Icon-ribboneel.png/revision/latest?cb=20200401003129",
         "location": "Sea",
         "month": [
@@ -1406,7 +1822,7 @@
             9,
             10
         ],
-        "name": " Ribbon eel",
+        "name": "Ribbon eel",
         "price": 600,
         "shadowSize": "Narrow",
         "times": [
@@ -1427,7 +1843,7 @@
             11,
             12
         ],
-        "name": " Tuna",
+        "name": "Tuna",
         "price": 7000,
         "shadowSize": "6",
         "times": [
@@ -1451,7 +1867,7 @@
             11,
             12
         ],
-        "name": " Blue marlin",
+        "name": "Blue marlin",
         "price": 10000,
         "shadowSize": "6",
         "times": [
@@ -1462,6 +1878,14 @@
         ]
     },
     {
+        "Chinese": "\u767d\u9762\u5f04\u9c7c",
+        "Dutch": "Reuzenhorsmakreel",
+        "French": "Caranguegrosset\u00eate",
+        "German": "Stachelmakrele",
+        "Italian": "Carangogigante",
+        "Japanese": "\u30ed\u30a6\u30cb\u30f3\u30a2\u30b8",
+        "Korean": "\ubb34\uba85\uac08\uc804\uac31\uc774",
+        "Spanish": "Jurelgigante",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7b/NH-Icon-gianttrevally.png/revision/latest?cb=20200401003129",
         "location": "Pier",
         "month": [
@@ -1472,7 +1896,7 @@
             9,
             10
         ],
-        "name": " Giant trevally",
+        "name": "Giant trevally",
         "price": 4500,
         "shadowSize": "5",
         "times": [
@@ -1493,7 +1917,7 @@
             9,
             10
         ],
-        "name": " Mahi-mahi",
+        "name": "Mahi-mahi",
         "price": 6000,
         "shadowSize": "5",
         "times": [
@@ -1504,6 +1928,14 @@
         ]
     },
     {
+        "Chinese": "\u7ffb\u8f66\u9c7c",
+        "Dutch": "Klompvis",
+        "French": "Lunedemer",
+        "German": "Mondfisch",
+        "Italian": "Pesceluna",
+        "Japanese": "\u30de\u30f3\u30dc\u30a6",
+        "Korean": "\uac1c\ubcf5\uce58",
+        "Spanish": "Pezluna",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/52/NH-Icon-oceansunfish.png/revision/latest?cb=20200401003129",
         "location": "Sea",
         "month": [
@@ -1511,7 +1943,7 @@
             8,
             9
         ],
-        "name": " Ocean sunfish",
+        "name": "Ocean sunfish",
         "price": 4000,
         "shadowSize": "6(Fin)",
         "times": [
@@ -1522,6 +1954,14 @@
         ]
     },
     {
+        "Chinese": "\u9cd0\u9c7c",
+        "Dutch": "Rog",
+        "French": "Raie",
+        "German": "Rochen",
+        "Italian": "Razza",
+        "Japanese": "\u30a8\u30a4",
+        "Korean": "\uac00\uc624\ub9ac",
+        "Spanish": "Raya",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/db/NH-Icon-ray.png/revision/latest?cb=20200401003129",
         "location": "Sea",
         "month": [
@@ -1530,7 +1970,7 @@
             10,
             11
         ],
-        "name": " Ray",
+        "name": "Ray",
         "price": 3000,
         "shadowSize": "5",
         "times": [
@@ -1541,6 +1981,14 @@
         ]
     },
     {
+        "Chinese": "\u952f\u9ca8",
+        "Dutch": "Zaaghaai",
+        "French": "Requinscie",
+        "German": "S\u00e4gehai",
+        "Italian": "Squalosega",
+        "Japanese": "\u30ce\u30b3\u30ae\u30ea\u30b6\u30e1",
+        "Korean": "\ud1b1\uc0c1\uc5b4",
+        "Spanish": "Pezsierra",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/73/NH-Icon-sawshark.png/revision/latest?cb=20200401003129",
         "location": "Sea",
         "month": [
@@ -1549,7 +1997,7 @@
             8,
             9
         ],
-        "name": " Saw shark",
+        "name": "Saw shark",
         "price": 12000,
         "shadowSize": "6(Fin)",
         "times": [
@@ -1560,6 +2008,14 @@
         ]
     },
     {
+        "Chinese": "\u53cc\u9afb\u9ca8",
+        "Dutch": "Hamerhaai",
+        "French": "Requinmarteau",
+        "German": "Hammerhai",
+        "Italian": "Pescemartello",
+        "Japanese": "\u30b7\u30e5\u30e2\u30af\u30b6\u30e1",
+        "Korean": "\uadc0\uc0c1\uc5b4",
+        "Spanish": "Pezmartillo",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/NH-Icon-hammerheadshark.png/revision/latest?cb=20200401003129",
         "location": "Sea",
         "month": [
@@ -1568,7 +2024,7 @@
             8,
             9
         ],
-        "name": " Hammerhead shark",
+        "name": "Hammerhead shark",
         "price": 8000,
         "shadowSize": "6(Fin)",
         "times": [
@@ -1587,7 +2043,7 @@
             8,
             9
         ],
-        "name": " Great white shark",
+        "name": "Great white shark",
         "price": 15000,
         "shadowSize": "6(Fin)",
         "times": [
@@ -1598,6 +2054,14 @@
         ]
     },
     {
+        "Chinese": "\u9cb8\u9ca8",
+        "Dutch": "Walvishaai",
+        "French": "Requin-baleine",
+        "German": "Walhai",
+        "Italian": "Squalobalena",
+        "Japanese": "\u30b8\u30f3\u30d9\u30a8\u30b6\u30e1",
+        "Korean": "\uace0\ub798\uc0c1\uc5b4",
+        "Spanish": "Tibur\u00f3nballena",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Icon-whaleshark.png/revision/latest?cb=20200401003129",
         "location": "Sea",
         "month": [
@@ -1606,7 +2070,7 @@
             8,
             9
         ],
-        "name": " Whale shark",
+        "name": "Whale shark",
         "price": 13000,
         "shadowSize": "6(Fin)",
         "times": [
@@ -1617,6 +2081,14 @@
         ]
     },
     {
+        "Chinese": "\u5438\u76d8\u9c7c",
+        "Dutch": "Zuigvis",
+        "French": "R\u00e9moraray\u00e9",
+        "German": "Schiffshalter",
+        "Italian": "Remora",
+        "Japanese": "\u30b3\u30d0\u30f3\u30b6\u30e1",
+        "Korean": "\ube68\ud310\uc0c1\uc5b4",
+        "Spanish": "R\u00e9mora",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b9/NH-Icon-suckerfish.png/revision/latest?cb=20200401003131",
         "location": "Sea",
         "month": [
@@ -1625,7 +2097,7 @@
             8,
             9
         ],
-        "name": " Suckerfish",
+        "name": "Suckerfish",
         "price": 1500,
         "shadowSize": "4(Fin)",
         "times": [
@@ -1636,6 +2108,14 @@
         ]
     },
     {
+        "Chinese": "\u706f\u7b3c\u9c7c",
+        "Dutch": "Voetbalvis",
+        "French": "Poissonlanterne",
+        "German": "Anglerfisch",
+        "Italian": "Pesceabissale",
+        "Japanese": "\u30c1\u30e7\u30a6\u30c1\u30f3\u30a2\u30f3\u30b3\u30a6",
+        "Korean": "\ucd08\ub871\uc544\uadc0",
+        "Spanish": "Pezbal\u00f3n",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/NH-Icon-footballfish.png/revision/latest?cb=20200401003129",
         "location": "Sea",
         "month": [
@@ -1645,7 +2125,7 @@
             11,
             12
         ],
-        "name": " Football fish",
+        "name": "Football fish",
         "price": 2500,
         "shadowSize": "4",
         "times": [
@@ -1656,6 +2136,14 @@
         ]
     },
     {
+        "Chinese": "\u7687\u5e26\u9c7c",
+        "Dutch": "Riemvis",
+        "French": "Poisson-ruban",
+        "German": "Riemenfisch",
+        "Italian": "Pesceremo",
+        "Japanese": "\u30ea\u30e5\u30a6\u30b0\u30a6\u30ce\u30c4\u30ab\u30a4",
+        "Korean": "\uc0b0\uac08\uce58",
+        "Spanish": "Pezremo",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-Icon-oarfish.png/revision/latest?cb=20200401003129",
         "location": "Sea",
         "month": [
@@ -1666,7 +2154,7 @@
             5,
             12
         ],
-        "name": " Oarfish",
+        "name": "Oarfish",
         "price": 9000,
         "shadowSize": "6",
         "times": [
@@ -1677,6 +2165,14 @@
         ]
     },
     {
+        "Chinese": "\u592a\u5e73\u6d0b\u6876\u773c\u9c7c",
+        "Dutch": "Hemelkijker",
+        "French": "Macropinna",
+        "German": "Glaskopffisch",
+        "Italian": "Macropinna",
+        "Japanese": "\u30c7\u30e1\u30cb\u30ae\u30b9",
+        "Korean": "\ub370\uba54\ub2c8\uae30\uc2a4",
+        "Spanish": "Pezcabezatransparente",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c7/NH-Icon-barreleye.png/revision/latest?cb=20200401003128",
         "location": "Sea",
         "month": [
@@ -1693,7 +2189,7 @@
             11,
             12
         ],
-        "name": " Barreleye",
+        "name": "Barreleye",
         "price": 15000,
         "shadowSize": "2",
         "times": [
@@ -1704,8 +2200,16 @@
         ]
     },
     {
+        "Chinese": "\u77db\u5c3e\u9c7c",
+        "Dutch": "Coelacant",
+        "French": "C\u0153lacanthe",
+        "German": "Quastenflosser",
+        "Italian": "Celacanto",
+        "Japanese": "\u30b7\u30fc\u30e9\u30ab\u30f3\u30b9",
+        "Korean": "\uc2e4\ub7ec\uce94\uc2a4",
+        "Spanish": "Celacanto",
         "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/31/NH-Icon-coelacanth.png/revision/latest?cb=20200401003129",
-        "location": "Sea",
+        "location": "Sea(whileraining)",
         "month": [
             1,
             2,
@@ -1720,7 +2224,7 @@
             11,
             12
         ],
-        "name": " Coelacanth",
+        "name": "Coelacanth",
         "price": 15000,
         "shadowSize": "6",
         "times": [

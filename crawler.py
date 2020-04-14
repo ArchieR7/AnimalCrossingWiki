@@ -2,13 +2,15 @@
 import requests
 import json
 from bs4 import BeautifulSoup
+import threading
 
 def parse_fish_table(table):
     bodys = list()
+    threads = list()
     for fish in table.find_all('tr'):
         column = fish.find_all('td')
-        if len(column) > 0:
-            name = column[0].text.replace('\n', '')
+        if len(column):
+            name = column[0].text.replace('\n', '').strip()
             image = column[1].find('a')['href']
             price = int(column[2].text.replace('\n', ''))
             location = column[3].text.replace('\n', '').replace(' ', '')
@@ -34,15 +36,21 @@ def parse_fish_table(table):
                 'times': time_results,
                 'month': month
             }
+            thread = threading.Thread(target=localized, args=(name, body))
+            threads.append(thread)
+            thread.start()
             bodys += [body]
+    for thread in threads:
+        thread.join()
     return bodys
 
 def parse_bug_table(table):
     bodys = list()
+    threads = list()
     for fish in table.find_all('tr'):
         column = fish.find_all('td')
-        if len(column) > 0:
-            name = column[0].text.replace('\n', '')
+        if len(column):
+            name = column[0].text.replace('\n', '').strip()
             image = column[1].find('a')['href']
             price = int(column[2].text.replace('\n', ''))
             location = column[3].text.replace('\n', '').replace(' ', '')
@@ -66,7 +74,12 @@ def parse_bug_table(table):
                 'times': time_results,
                 'month': month
             }
+            thread = threading.Thread(target=localized_bug, args=(name, body))
+            threads.append(thread)
+            thread.start()
             bodys += [body]
+    for thread in threads:
+        thread.join()
     return bodys
     
 def bugs():
@@ -96,5 +109,45 @@ def fish():
     fp = open('Southern fish.json', 'w+')
     fp.write(json.dumps(southern, indent=4, sort_keys=True))
     fp.close()
+
+def localized(name, body):
+    url = 'https://animalcrossing.fandom.com/wiki/%s' % name.replace(' ', '_')
+    print(url)
+    r = requests.get(url)
+    soup = BeautifulSoup(r.text, 'html.parser')
+    tables = soup.find_all('table', {'style': 'width:100%; background:#76acda; text-align:center;'})
+    for table in tables:
+        tr = table.find_all('tr')
+        if len(tr) == 9:
+            for row in tr:
+                value = row.find_all('td')
+                if len(value):
+                    result = value[1].text.replace('\n', '').replace(' ', '')
+                    if len(value[1].find_all('i')):
+                        result = result.replace(value[1].find_all('i')[0].text, '')
+                    body[value[0].text.replace('\n', '').replace(' ', '')] = result   
+            return 
+
+def localized_bug(name, body):
+    url = 'https://animalcrossing.fandom.com/wiki/%s' % name.replace(' ', '_')
+    print(url)
+    r = requests.get(url)
+    soup = BeautifulSoup(r.text, 'html.parser')
+    tables = soup.find_all('table', {'style': 'width:100%; background:#92B05A; text-align:center;'})
+    for table in tables:
+        tr = table.find_all('tr')
+        if len(tr) == 9:
+            for row in tr:
+                value = row.find_all('td')
+                if len(value):
+                    result = value[1].text.replace('\n', '').replace(' ', '')
+                    if len(value[1].find_all('i')):
+                        result = result.replace(value[1].find_all('i')[0].text, '')
+                    body[value[0].text.replace('\n', '').replace(' ', '')] = result   
+            return 
     
+fish()
 bugs()
+# body = {}
+# localized('bitterling', body)
+# print(json.dumps(body, ensure_ascii=False))
